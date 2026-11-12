@@ -1,0 +1,71 @@
+name: SNOWBALL V336 AI Feed (ZIP bootstrap)
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Korea: approximately 08:00, 13:00, 19:00; GitHub may delay schedules.
+    - cron: '0 23,4,10 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snowball-v336-public-feed
+  cancel-in-progress: false
+
+jobs:
+  public-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout public feed repository
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Extract the V336 archive already uploaded to repository root
+        shell: bash
+        run: |
+          test -f SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip || { echo 'Missing SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip in repository root'; exit 1; }
+          unzip -oq SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip -d .
+          test -f automation/ai_discovery_collector.py
+          test -f tools/validate_v336_published_feed.py
+      - name: Run supplied V336 tests
+        run: |
+          python tools/test_v333_collector.py
+          python tools/test_v334_official.py
+          python tools/test_v335_tracks.py
+          python tools/test_v336_published_feed.py
+      - name: Collect public news and official filings
+        id: collect
+        continue-on-error: true
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python automation/ai_discovery_collector.py
+      - name: Validate the result (also accepts explicit error status)
+        run: python tools/validate_v336_published_feed.py docs/ai_discovery_feed.json
+      - name: Upload snapshot for debugging
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: snowball-v336-feed-snapshot
+          path: docs/ai_discovery_feed.json
+          if-no-files-found: warn
+          retention-days: 14
+      - name: Publish validated feed and scan history
+        shell: bash
+        run: |
+          git config user.name "snowball-feed-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ai_discovery_feed.json docs/ai_discovery_history.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: update V336 AI public feed"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Report a total collector failure as a failed run
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Collector reported total failure; diagnostic JSON was published with status=error.'
+          exit 1
