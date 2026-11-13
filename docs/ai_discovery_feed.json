@@ -1,10 +1,10 @@
 {
   "schema": "snowball.ai_discovery.v1",
-  "generatedAt": "2026-11-12T15:11:27Z",
+  "generatedAt": "2026-11-13T03:17:47Z",
   "status": "ok",
   "scanned": 24,
   "completed": 24,
-  "newsSignalCount": 22,
+  "newsSignalCount": 21,
   "scope": "curated_public_news_seeds_KR_US",
   "officialChecked": 0,
   "officialNotConfigured": 24,
@@ -22,7 +22,7 @@
       "theme": "AI·HBM",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 7,
+      "matches": 8,
       "stage": "news_signal",
       "evidence": [
         {
@@ -38,16 +38,16 @@
           "publisher": "연합뉴스"
         },
         {
-          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
-          "date": "2026-11-11",
-          "publisher": "연합뉴스"
-        },
-        {
           "title": "\"SK하이닉스, 3분기 영업익 80조 '깜짝 실적'…목표가↑\"-메리츠 - 한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80UzRVZmRBMDItcXlRemt0N1h0d3doTFgtajFOeHFBVlQzSEFBV3JPdmxDeFJ0dHhIYVpjWnhvanJnYkNjekxIOU1ubmhfMUFjWWZ5LXp1N3U2Zw?oc=5",
           "date": "2026-10-12",
           "publisher": "한국경제"
+        },
+        {
+          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
+          "date": "2026-11-11",
+          "publisher": "연합뉴스"
         },
         {
           "title": "SK하이닉스, 3분기 영업익 83조…'꿈의 영업이익률' 달성 - 한국경제",
@@ -58,7 +58,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -112,7 +112,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -166,7 +166,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -184,7 +184,7 @@
       "theme": "원전·SMR",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 23,
+      "matches": 24,
       "stage": "news_signal",
       "evidence": [
         {
@@ -220,7 +220,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -274,7 +274,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -292,7 +292,7 @@
       "theme": "전력기기",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 14,
+      "matches": 16,
       "stage": "news_signal",
       "evidence": [
         {
@@ -320,15 +320,15 @@
           "publisher": "전기신문"
         },
         {
-          "title": "“효성중공업, 매출 이연으로 단기 실적 변동성 확대” - 매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTE45RG05WVpkMHR0eEtyWFNxZlp1Y0p5X2U1dHA5NV9pU2V6azNmRGtTc05DUWFsV3pOQ25tUmo5RU5XRXhwSDdpckpVbnJqdkE?oc=5",
-          "date": "2026-10-07",
-          "publisher": "매일경제"
+          "title": "효성중공업, 미국 빅테크와 3천865억원 변압기 공급 계약 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZG5qWmY1UnFMenVSazFveHozZlVCbXNfY0JzSUlqeWF6ZmdTWE00WWNLSkpGaE9pYm5COFI0aFZoMXVhakVFX24zTWw5MzR2Tlg1cGQwYmhlaEnSAWBBVV95cUxPQnZhcGV4NU9lVW1NQVZrZzVtcXJTZ1ZIZlgzN3V1M2Jfa29NUjc0X2xyNU40SVVrMXQ0Q0U0Q3VsRWl2YzZ3Tk9wYkZBQ29ra2dVWU5fN29LdDRDR3duR0E?oc=5",
+          "date": "2026-09-15",
+          "publisher": "연합뉴스"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -346,7 +346,7 @@
       "theme": "로봇",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 26,
+      "matches": 25,
       "stage": "news_signal",
       "evidence": [
         {
@@ -382,7 +382,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -436,7 +436,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -454,7 +454,7 @@
       "theme": "방산·우주",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 12,
+      "matches": 13,
       "stage": "news_signal",
       "evidence": [
         {
@@ -490,7 +490,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -530,21 +530,21 @@
           "publisher": "메디컬투데이"
         },
         {
-          "title": "현대로템, 폴란드형 K2 전차 최초 공개... LIG넥스원, 해외 방산 전시회 참가 외[시경Today-방산] - 시장경제신문",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90QmE4dUJaWXg3eXk4MkE4Xy1GM0YyTXhUYjNSbV9FdGZUaFJwdlBVdjJlWEllLWxJRE1lYVg0T243Y1hON216TzU2dFdRSTlsakNpalNKdmt2RkJUVjNFTTJPMXRibTRqaURnQ0hheXU?oc=5",
-          "date": "2026-09-08",
-          "publisher": "시장경제신문"
+          "title": "[공시 분석] LIG넥스원, 5319억원 조달…구미·김천 미사일 생산기반 확충 - 이슈밸리",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ycktwc0t1MWFodjAwZGNYeHJmbDhTWVlidHFhNXM2eUQweWI0YWpYUTctbXNvUEdNcFNiZVQ1ZzR2SUlxNWxnV3FwbUtkSjJHajFPQlEtUkVxbm1RcGFnSVhtYjlKa3lhOUlEeExn?oc=5",
+          "date": "2026-09-04",
+          "publisher": "이슈밸리"
         },
         {
-          "title": "LIG넥스원, 현대로템까지... 490억 방산클러스터에 청라 오피스 수요 확대 - 리얼캐스트",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12V0pGLWtyMi1uWV96MDZkcXMwRmFiaHBQN2p2anNRVWl3dGo0ZWQ5S18yRjlFbkFfVlhwRGQ2SHJIZDlvZHJRVXhKUkMtVEFRZ1ctbjNtZGlscHV6MDFkMzhJRHlZY0I10gFsQVVfeXFMUGlsMDR1UWRiVWpoZTFCTXF2WGpMZVBPclZ0bkZ1emVlampINzFEeGhvY211MmlqWUlkOFBscTF3ZmtzaTB2a19tUnJObTBLMkdmcjdDQndZcGJmelMwV3djWFBlNHRUWDVlUFdZ?oc=5",
-          "date": "2026-08-25",
-          "publisher": "리얼캐스트"
+          "title": "[랭킹연구소] ‘한화 16위·LIG넥스원 52위·KAI 74위’ K-방산 빅4, TOP100 2년 연속 동반 진입…세계 방산 순위, 록히드마틴>RTX>제너럴다이내믹스 順 - 뉴스스페이스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BNW5kdkd2dFZVbmZsYnFwUDN2aUdVdGNhTVNuMTdxb1ZUUlpURE9BUEJZNXZYMDZFZmdTY3hHZTVDRG1CWWkyTTdZRTNkYVVoTGJHTW1rTnJiTU1EOGU3WA?oc=5",
+          "date": "2026-09-02",
+          "publisher": "뉴스스페이스"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -572,16 +572,16 @@
           "publisher": "연합인포맥스"
         },
         {
-          "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
-          "date": "2026-10-14",
-          "publisher": "뉴데일리"
-        },
-        {
           "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
           "date": "2026-09-11",
           "publisher": "연합뉴스"
+        },
+        {
+          "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
+          "date": "2026-10-14",
+          "publisher": "뉴데일리"
         },
         {
           "title": "[버핏 리포트] 삼성E&A, 3분기 영업익 컨센서스 2배...’관계사 수주·’특별배당에 목표가 상향 - 신한 - 버핏연구소",
@@ -590,15 +590,15 @@
           "publisher": "버핏연구소"
         },
         {
-          "title": "삼성E&A 사상 첫 영업이익 1조 가능성, 남궁홍 체질 개선에 반도체 특수 더해 - 비즈니스포스트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZcmttS1IteE4tWk81cnFRQVp5c1VzU2g0RHMzeDhtbzlUMk85YWg5WVlYY01XNVZlQXNLYV9kVmlDcF9Sa0czbm43d3N1ZEpPV0dtZVhZVnVOVExPdmhFSHlCUlIwdFpCMnZPNnFJazB6Z0U?oc=5",
-          "date": "2026-08-31",
-          "publisher": "비즈니스포스트"
+          "title": "현대차證 “삼성E&A, 연간 수주 목표 초과 달성 전망… 목표가 6만9000원으로 상향” - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGR3Z21aSGJ2anhpZnR2RTl4SmVXaGY5ZzNIX2FaZnQ2aVlINjcyeUNIVE9ONnhQZmI0MEc2Y3RCb3JnaV9ENVVuQ1F5dFlRaWZJYTJINzJyaW5wcURobE1XVHBFYVFGcU1IR0NXeDV3WU1aZVhKTnNLdUIwODlNWUNxaVFQRVFD0gGcAUFVX3lxTE1WRGV1MURTdG9OU1BLRmUzSjlJbXR5T0hfc0pLb3F4eU5pTk9CS2NKM1BlUWNCUHNYWHJiUHEyeGJtN1ZaQTNIdTRDZ1AxVHAyMHJ0MlhrTDRfRFByVkxEeEVfSXZWLUVjVnJmb1ZVTkN3MXA4akdoYktiaVdGY3BGcGpKY1hfX1E0N3d1SnBZQWp5bG1JeWF2MUlyZQ?oc=5",
+          "date": "2026-10-08",
+          "publisher": "Chosunbiz"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -652,7 +652,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -706,7 +706,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -724,7 +724,7 @@
       "theme": "AI·반도체",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 11,
+      "matches": 10,
       "stage": "news_signal",
       "evidence": [
         {
@@ -760,7 +760,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -778,7 +778,7 @@
       "theme": "바이오",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 19,
+      "matches": 18,
       "stage": "news_signal",
       "evidence": [
         {
@@ -814,7 +814,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -832,7 +832,7 @@
       "theme": "전고체",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 14,
+      "matches": 12,
       "stage": "news_signal",
       "evidence": [
         {
@@ -842,16 +842,16 @@
           "publisher": "리드경제"
         },
         {
-          "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
-          "date": "2026-10-19",
-          "publisher": "브릿지경제"
-        },
-        {
           "title": "[특징주]이수스페셜티케미컬, 황화리튬 상업 생산 기대에 16.61% 뛰어…전고체 배터리주 강세 - 남도일보",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSFNSNzVjdGVqOVcwM2d6bUYxNEVQbVkxcUNsbGxrODFzeTc2M3ZRZDhuNnpSOEJpQk1EN3hWZ2hOdkJ1c21Fd1ZHbWpPcmVHM3F6SFQ4aVlfbk5EeDR2UnhPTnF0LVdITm9HbdIBcEFVX3lxTE9wQTdjX040em9ka3JQYTVPNFZic2lwalFURC1XN1FYSkJpa25HS0MzcFliaVV1UmhRQTV6cms2X3ptaEJHZjBFNmVEX0Y0MEFHV0I3Wmw1LTBTZzJZR182NEUzY2dfQmlLYkhXdnVONkM?oc=5",
           "date": "2026-09-30",
           "publisher": "남도일보"
+        },
+        {
+          "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
+          "date": "2026-10-19",
+          "publisher": "브릿지경제"
         },
         {
           "title": "이수스페셜티케미컬 3.33% 상승…고체전해질 상용화 단계 주목 - 잡포스트",
@@ -868,7 +868,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -886,15 +886,9 @@
       "theme": "AI·반도체",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 2,
-      "stage": "news_signal",
+      "matches": 1,
+      "stage": "insufficient",
       "evidence": [
-        {
-          "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
-          "date": "2026-11-11",
-          "publisher": "CNBC"
-        },
         {
           "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform | NVIDIA Technical Blog - NVIDIA Developer",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUhCMm5LY3dMOVd6U1daRWpINVhKcXhIcWt0bVlyYTRCWnlVRHY5aDhoc3pHdUlsb1RUbHVUZlV3QkhXVzFDRXpUb2JyMWlkeUw0MU9sTld4U3o3Y1hPQXJFMVVuS2FTR1h5eUVzdUdBTlVkdTVXQXhSZUQxbXltY1hXcTlWY2hxZUJjRkstbkhxekpJTDRuMkpJSTBvM282ckVmQjNzX1VDOVV4?oc=5",
@@ -904,7 +898,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -922,12 +916,19 @@
       "theme": "AI·클라우드",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 0,
+      "matches": 1,
       "stage": "insufficient",
-      "evidence": [],
+      "evidence": [
+        {
+          "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclpVVGdGd3NYYWo4bGNFRTVlYjhQc0VhMzhmZnRsRnlTNkRidVNwaGlQVVdPMktwMHRMYzhUTWpYUXFYaVFfZFRkSkRmbDNGOWxVa29MSWhhUDk4RE9BVElXUTY3SWo2SHRNbGVhRU9vbjd3ZHJnZlpTdHpSbHpDNNIBhgFBVV95cUxNRXA0VC1WZEYxMWVmenJmdVRiRzhDRFVzUVNVNlJXaEJDc011NjZuT2VHdTJLYndYaGV1NDM2UU93Zm12X1J2VWtYMEJNQ3ZkU0Nhb3M0c0dQT3pzVFl3eTlqLWluNHJjRHpVRTJicTdqSXNTSHBVQjdKWlJtYjZjN2tQZkc3dw?oc=5",
+          "date": "2026-10-28",
+          "publisher": "CNBC"
+        }
+      ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -945,26 +946,20 @@
       "theme": "AI·클라우드",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 9,
+      "matches": 10,
       "stage": "news_signal",
       "evidence": [
-        {
-          "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
-          "date": "2026-10-29",
-          "publisher": "Reuters"
-        },
-        {
-          "title": "2026 Q3 Earnings Call - Alphabet Investor Relations",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-          "date": "2026-10-28",
-          "publisher": "Alphabet Investor Relations"
-        },
         {
           "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
           "date": "2026-10-28",
           "publisher": "The New York Times"
+        },
+        {
+          "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
+          "date": "2026-10-29",
+          "publisher": "Reuters"
         },
         {
           "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
@@ -974,14 +969,20 @@
         },
         {
           "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
           "date": "2026-10-29",
           "publisher": "CNBC"
+        },
+        {
+          "title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+          "date": "2026-10-29",
+          "publisher": "Reuters"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1004,14 +1005,14 @@
       "evidence": [
         {
           "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEU?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
           "date": "2026-09-02",
           "publisher": "CNBC"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1029,31 +1030,25 @@
       "theme": "AI·국방",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 3,
+      "matches": 2,
       "stage": "news_signal",
       "evidence": [
         {
           "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlE?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
           "date": "2026-11-02",
           "publisher": "CNBC"
         },
         {
           "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
-          "date": "2026-10-08",
-          "publisher": "Yahoo Finance"
-        },
-        {
-          "title": "Will Federal Cloud Partnership Change Palantir Stock Narrative - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDhYM0FHV2tfWFF0dVh4ZjZsTjQ2OURLcUlCZlNURldfbE9fMnFCTVhkd2UxMW1YNnQ2OEx0VDVzT0ZXODlmZzllZTJwUHBoWjhDanVOUy1ub0NVNU96WkZaZnFXcHBBWDQ4ZzYxMFJ0STRfRERfZVpTWl9JaTY5SmgxbzA0MFF3aFFFekhuY1l5X190SXZPS09pcU05anZlYzJHaFMxZHZoZw?oc=5",
-          "date": "2026-10-20",
+          "date": "2026-10-07",
           "publisher": "Yahoo Finance"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1071,7 +1066,7 @@
       "theme": "로봇·자율주행",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 7,
+      "matches": 6,
       "stage": "news_signal",
       "evidence": [
         {
@@ -1082,15 +1077,9 @@
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
           "date": "2026-11-06",
           "publisher": "CNBC"
-        },
-        {
-          "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5",
-          "date": "2026-11-09",
-          "publisher": "Reuters"
         },
         {
           "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
@@ -1103,11 +1092,17 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2I2WU5zeGprVWRYOVZyZG5GeHp4NmYxZTU4bmhRYWR2Y3JneHJrVVZaVE5xSlBrODZLRHlsbV9YUFR3WllNNGRfYmtJb2RfYXloMURJaGJOWjZWMWNacGNlTzZDX1M4eEsxTm1wa3RFTGJDNWsxaVROVlV0cXFNU1hFeElneDlyaGY1cldWeFF0Zktsa3NN?oc=5",
           "date": "2026-11-11",
           "publisher": "Electrek"
+        },
+        {
+          "title": "Tesla tuner Unplugged offers to take over Cybertruck production - Electrek",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZMTGVkc2k5MlhfV2tGRUpjVksyaGlWcDlBX3JkMG40NHNrQmVNU0JxMVRCN2R2amNxSm10U0pObVpkSUV0REE0WERaLTllLWliOGRuWG1CRkh0Q083eHE4XzNNQUU1aGU4ajJMbU9zUDdlX09TcFVFM1hsb1VZam5NR3NVT3l6cXlKQnhBc0QxT0VBVEM5elliMU1BbFk?oc=5",
+          "date": "2026-11-11",
+          "publisher": "Electrek"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1153,15 +1148,15 @@
           "publisher": "Utility Dive"
         },
         {
-          "title": "GE Vernova's Orders Jumped 96%. The Number Hiding Underneath Is Electrification's 9% Decline. - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXk0Q2diOEZYY1hFVm85U1hhRllCUE85OTVjNHVtVHV0cWYyUjhXc1pMM05EU3B6UHpPTXlnb0tGcFRubnRwVy1mX1RHcVlLVlU1S00xamZpRmhWbGttMFZ6OEpIbVp2RE1aNnZuVU5YN1lyaFppREFqZG1hbFVCTTFWVzg4TXR2OEZzdmFwNjhsTVFpZG8tZg?oc=5",
-          "date": "2026-11-11",
-          "publisher": "The Motley Fool"
+          "title": "GE Vernova-powered projects receive 2026 POWER Magazine Awards for advancements in energy efficiency and decarbonization - GE Vernova",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnpiZDNtTHd6SzJzTXFHUmJ6RkFsMWxuZ2ZKRDFNRHB6SkpWa1RPbmdUZkM1MUUyck1XR1Fuamh2cnl4LVE5ekdUQWhUZkgxNHAyMFlPZENjTWxWM20yVFFGZlNhSnJyYlhwT21vNERQZUJfeE9hMElaZEV2cW1yZUZqbHAxSDJPSE54SnBnYUcwczA5SXZPajU2YUotZ0gxMlIxUk0xWTJzc3VxaFZrSzlTcngtZDNPYnNRYXF3NzJVaDRZQ1NR?oc=5",
+          "date": "2026-10-05",
+          "publisher": "GE Vernova"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1179,7 +1174,7 @@
       "theme": "원전·전력",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 11,
+      "matches": 9,
       "stage": "news_signal",
       "evidence": [
         {
@@ -1215,7 +1210,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-12T15:11:27Z",
+        "checkedAt": "2026-11-13T03:17:47Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1230,7 +1225,7 @@
   "errors": [],
   "analysisTracks": {
     "schema": "snowball.analysis_tracks.v1",
-    "generatedAt": "2026-11-12T15:11:27Z",
+    "generatedAt": "2026-11-13T03:17:47Z",
     "coverage": "curated_public_news_seeds_KR_US_not_full_market",
     "leaderThemes": [
       {
@@ -1257,7 +1252,7 @@
             "market": "KR",
             "theme": "AI·HBM",
             "newsStage": "news_signal",
-            "newsMatches": 7,
+            "newsMatches": 8,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1272,9 +1267,9 @@
                 "date": "2026-10-27"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
-                "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
-                "date": "2026-11-11"
+                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80UzRVZmRBMDItcXlRemt0N1h0d3doTFgtajFOeHFBVlQzSEFBV3JPdmxDeFJ0dHhIYVpjWnhvanJnYkNjekxIOU1ubmhfMUFjWWZ5LXp1N3U2Zw?oc=5",
+                "title": "\"SK하이닉스, 3분기 영업익 80조 '깜짝 실적'…목표가↑\"-메리츠 - 한국경제",
+                "date": "2026-10-12"
               }
             ]
           },
@@ -1311,7 +1306,7 @@
             "market": "KR",
             "theme": "AI·반도체",
             "newsStage": "news_signal",
-            "newsMatches": 11,
+            "newsMatches": 10,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1333,50 +1328,28 @@
             ]
           },
           {
-            "code": "NVDA",
-            "name": "NVIDIA",
-            "market": "US",
-            "theme": "AI·반도체",
-            "newsStage": "news_signal",
-            "newsMatches": 2,
-            "officialStatus": "not_configured",
-            "filingCount": 0,
-            "sourceLinks": [
-              {
-                "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
-                "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
-                "date": "2026-11-11"
-              },
-              {
-                "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUhCMm5LY3dMOVd6U1daRWpINVhKcXhIcWt0bVlyYTRCWnlVRHY5aDhoc3pHdUlsb1RUbHVUZlV3QkhXVzFDRXpUb2JyMWlkeUw0MU9sTld4U3o3Y1hPQXJFMVVuS2FTR1h5eUVzdUdBTlVkdTVXQXhSZUQxbXltY1hXcTlWY2hxZUJjRkstbkhxekpJTDRuMkpJSTBvM282ckVmQjNzX1VDOVV4?oc=5",
-                "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform | NVIDIA Technical Blog - NVIDIA Developer",
-                "date": "2026-10-13"
-              }
-            ]
-          },
-          {
             "code": "GOOGL",
             "name": "Alphabet",
             "market": "US",
             "theme": "AI·클라우드",
             "newsStage": "news_signal",
-            "newsMatches": 9,
+            "newsMatches": 10,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
+              {
+                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
+                "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+                "date": "2026-10-28"
+              },
               {
                 "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
                 "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
                 "date": "2026-10-29"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-                "title": "2026 Q3 Earnings Call - Alphabet Investor Relations",
-                "date": "2026-10-28"
-              },
-              {
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-                "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+                "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
+                "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
                 "date": "2026-10-28"
               }
             ]
@@ -1435,7 +1408,7 @@
             "market": "KR",
             "theme": "방산·우주",
             "newsStage": "news_signal",
-            "newsMatches": 12,
+            "newsMatches": 13,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1489,24 +1462,19 @@
             "market": "US",
             "theme": "AI·국방",
             "newsStage": "news_signal",
-            "newsMatches": 3,
+            "newsMatches": 2,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
               {
-                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlE?oc=5",
+                "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
                 "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time - CNBC",
                 "date": "2026-11-02"
               },
               {
                 "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
                 "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-                "date": "2026-10-08"
-              },
-              {
-                "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDhYM0FHV2tfWFF0dVh4ZjZsTjQ2OURLcUlCZlNURldfbE9fMnFCTVhkd2UxMW1YNnQ2OEx0VDVzT0ZXODlmZzllZTJwUHBoWjhDanVOUy1ub0NVNU96WkZaZnFXcHBBWDQ4ZzYxMFJ0STRfRERfZVpTWl9JaTY5SmgxbzA0MFF3aFFFekhuY1l5X190SXZPS09pcU05anZlYzJHaFMxZHZoZw?oc=5",
-                "title": "Will Federal Cloud Partnership Change Palantir Stock Narrative - Yahoo Finance",
-                "date": "2026-10-20"
+                "date": "2026-10-07"
               }
             ]
           }
@@ -1591,7 +1559,7 @@
             "market": "KR",
             "theme": "전고체",
             "newsStage": "news_signal",
-            "newsMatches": 14,
+            "newsMatches": 12,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1601,14 +1569,14 @@
                 "date": "2026-09-30"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
-                "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
-                "date": "2026-10-19"
-              },
-              {
                 "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSFNSNzVjdGVqOVcwM2d6bUYxNEVQbVkxcUNsbGxrODFzeTc2M3ZRZDhuNnpSOEJpQk1EN3hWZ2hOdkJ1c21Fd1ZHbWpPcmVHM3F6SFQ4aVlfbk5EeDR2UnhPTnF0LVdITm9HbdIBcEFVX3lxTE9wQTdjX040em9ka3JQYTVPNFZic2lwalFURC1XN1FYSkJpa25HS0MzcFliaVV1UmhRQTV6cms2X3ptaEJHZjBFNmVEX0Y0MEFHV0I3Wmw1LTBTZzJZR182NEUzY2dfQmlLYkhXdnVONkM?oc=5",
                 "title": "[특징주]이수스페셜티케미컬, 황화리튬 상업 생산 기대에 16.61% 뛰어…전고체 배터리주 강세 - 남도일보",
                 "date": "2026-09-30"
+              },
+              {
+                "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
+                "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
+                "date": "2026-10-19"
               }
             ]
           }
@@ -1666,7 +1634,7 @@
             "market": "KR",
             "theme": "전력기기",
             "newsStage": "news_signal",
-            "newsMatches": 14,
+            "newsMatches": 16,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1741,7 +1709,7 @@
             "market": "KR",
             "theme": "로봇",
             "newsStage": "news_signal",
-            "newsMatches": 26,
+            "newsMatches": 25,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1768,7 +1736,7 @@
             "market": "US",
             "theme": "로봇·자율주행",
             "newsStage": "news_signal",
-            "newsMatches": 7,
+            "newsMatches": 6,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1778,14 +1746,14 @@
                 "date": "2026-11-11"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
                 "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
                 "date": "2026-11-06"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5",
-                "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says - Reuters",
-                "date": "2026-11-09"
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
+                "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
+                "date": "2026-10-21"
               }
             ]
           }
@@ -1816,7 +1784,7 @@
             "market": "KR",
             "theme": "원전·SMR",
             "newsStage": "news_signal",
-            "newsMatches": 23,
+            "newsMatches": 24,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1843,7 +1811,7 @@
             "market": "US",
             "theme": "원전·전력",
             "newsStage": "news_signal",
-            "newsMatches": 11,
+            "newsMatches": 9,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1891,7 +1859,7 @@
             "market": "KR",
             "theme": "바이오",
             "newsStage": "news_signal",
-            "newsMatches": 19,
+            "newsMatches": 18,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1997,14 +1965,14 @@
                 "date": "2026-10-11"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
-                "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
-                "date": "2026-10-14"
-              },
-              {
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
                 "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
                 "date": "2026-09-11"
+              },
+              {
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
+                "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
+                "date": "2026-10-14"
               }
             ]
           }
@@ -2020,7 +1988,7 @@
         "market": "KR",
         "theme": "AI·HBM",
         "newsStage": "news_signal",
-        "newsMatches": 7,
+        "newsMatches": 8,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2035,9 +2003,9 @@
             "date": "2026-10-27"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
-            "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
-            "date": "2026-11-11"
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80UzRVZmRBMDItcXlRemt0N1h0d3doTFgtajFOeHFBVlQzSEFBV3JPdmxDeFJ0dHhIYVpjWnhvanJnYkNjekxIOU1ubmhfMUFjWWZ5LXp1N3U2Zw?oc=5",
+            "title": "\"SK하이닉스, 3분기 영업익 80조 '깜짝 실적'…목표가↑\"-메리츠 - 한국경제",
+            "date": "2026-10-12"
           }
         ],
         "status": "observation_only",
@@ -2125,7 +2093,7 @@
         "market": "KR",
         "theme": "원전·SMR",
         "newsStage": "news_signal",
-        "newsMatches": 23,
+        "newsMatches": 24,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2195,7 +2163,7 @@
         "market": "KR",
         "theme": "전력기기",
         "newsStage": "news_signal",
-        "newsMatches": 14,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2230,7 +2198,7 @@
         "market": "KR",
         "theme": "로봇",
         "newsStage": "news_signal",
-        "newsMatches": 26,
+        "newsMatches": 25,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2300,7 +2268,7 @@
         "market": "KR",
         "theme": "방산·우주",
         "newsStage": "news_signal",
-        "newsMatches": 12,
+        "newsMatches": 13,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2380,14 +2348,14 @@
             "date": "2026-10-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
-            "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
-            "date": "2026-10-14"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
             "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
             "date": "2026-09-11"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
+            "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
+            "date": "2026-10-14"
           }
         ],
         "status": "observation_only",
@@ -2475,7 +2443,7 @@
         "market": "KR",
         "theme": "AI·반도체",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2510,7 +2478,7 @@
         "market": "KR",
         "theme": "바이오",
         "newsStage": "news_signal",
-        "newsMatches": 19,
+        "newsMatches": 18,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2545,7 +2513,7 @@
         "market": "KR",
         "theme": "전고체",
         "newsStage": "news_signal",
-        "newsMatches": 14,
+        "newsMatches": 12,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2555,44 +2523,14 @@
             "date": "2026-09-30"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
-            "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
-            "date": "2026-10-19"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSFNSNzVjdGVqOVcwM2d6bUYxNEVQbVkxcUNsbGxrODFzeTc2M3ZRZDhuNnpSOEJpQk1EN3hWZ2hOdkJ1c21Fd1ZHbWpPcmVHM3F6SFQ4aVlfbk5EeDR2UnhPTnF0LVdITm9HbdIBcEFVX3lxTE9wQTdjX040em9ka3JQYTVPNFZic2lwalFURC1XN1FYSkJpa25HS0MzcFliaVV1UmhRQTV6cms2X3ptaEJHZjBFNmVEX0Y0MEFHV0I3Wmw1LTBTZzJZR182NEUzY2dfQmlLYkhXdnVONkM?oc=5",
             "title": "[특징주]이수스페셜티케미컬, 황화리튬 상업 생산 기대에 16.61% 뛰어…전고체 배터리주 강세 - 남도일보",
             "date": "2026-09-30"
-          }
-        ],
-        "status": "observation_only",
-        "futureHorizon": "unverified",
-        "requiredNext": [
-          "거래대금 증가 추세",
-          "외국인·기관 연속 수급",
-          "수주·재무 내용 검증",
-          "밸류체인 확산"
-        ]
-      },
-      {
-        "code": "NVDA",
-        "name": "NVIDIA",
-        "market": "US",
-        "theme": "AI·반도체",
-        "newsStage": "news_signal",
-        "newsMatches": 2,
-        "officialStatus": "not_configured",
-        "filingCount": 0,
-        "sourceLinks": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
-            "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
-            "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUhCMm5LY3dMOVd6U1daRWpINVhKcXhIcWt0bVlyYTRCWnlVRHY5aDhoc3pHdUlsb1RUbHVUZlV3QkhXVzFDRXpUb2JyMWlkeUw0MU9sTld4U3o3Y1hPQXJFMVVuS2FTR1h5eUVzdUdBTlVkdTVXQXhSZUQxbXltY1hXcTlWY2hxZUJjRkstbkhxekpJTDRuMkpJSTBvM282ckVmQjNzX1VDOVV4?oc=5",
-            "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform | NVIDIA Technical Blog - NVIDIA Developer",
-            "date": "2026-10-13"
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
+            "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
+            "date": "2026-10-19"
           }
         ],
         "status": "observation_only",
@@ -2610,23 +2548,23 @@
         "market": "US",
         "theme": "AI·클라우드",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
+            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+            "date": "2026-10-28"
+          },
           {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-            "title": "2026 Q3 Earnings Call - Alphabet Investor Relations",
-            "date": "2026-10-28"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
+            "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
             "date": "2026-10-28"
           }
         ],
@@ -2645,24 +2583,19 @@
         "market": "US",
         "theme": "AI·국방",
         "newsStage": "news_signal",
-        "newsMatches": 3,
+        "newsMatches": 2,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
             "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time - CNBC",
             "date": "2026-11-02"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
             "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-            "date": "2026-10-08"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDhYM0FHV2tfWFF0dVh4ZjZsTjQ2OURLcUlCZlNURldfbE9fMnFCTVhkd2UxMW1YNnQ2OEx0VDVzT0ZXODlmZzllZTJwUHBoWjhDanVOUy1ub0NVNU96WkZaZnFXcHBBWDQ4ZzYxMFJ0STRfRERfZVpTWl9JaTY5SmgxbzA0MFF3aFFFekhuY1l5X190SXZPS09pcU05anZlYzJHaFMxZHZoZw?oc=5",
-            "title": "Will Federal Cloud Partnership Change Palantir Stock Narrative - Yahoo Finance",
-            "date": "2026-10-20"
+            "date": "2026-10-07"
           }
         ],
         "status": "observation_only",
@@ -2680,7 +2613,7 @@
         "market": "US",
         "theme": "로봇·자율주행",
         "newsStage": "news_signal",
-        "newsMatches": 7,
+        "newsMatches": 6,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2690,14 +2623,14 @@
             "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
             "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
             "date": "2026-11-06"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5",
-            "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says - Reuters",
-            "date": "2026-11-09"
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
+            "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
+            "date": "2026-10-21"
           }
         ],
         "status": "observation_only",
@@ -2750,7 +2683,7 @@
         "market": "US",
         "theme": "원전·전력",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 9,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2788,7 +2721,7 @@
         "market": "KR",
         "theme": "AI·HBM",
         "newsStage": "news_signal",
-        "newsMatches": 7,
+        "newsMatches": 8,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2803,9 +2736,9 @@
             "date": "2026-10-27"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
-            "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
-            "date": "2026-11-11"
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80UzRVZmRBMDItcXlRemt0N1h0d3doTFgtajFOeHFBVlQzSEFBV3JPdmxDeFJ0dHhIYVpjWnhvanJnYkNjekxIOU1ubmhfMUFjWWZ5LXp1N3U2Zw?oc=5",
+            "title": "\"SK하이닉스, 3분기 영업익 80조 '깜짝 실적'…목표가↑\"-메리츠 - 한국경제",
+            "date": "2026-10-12"
           }
         ],
         "status": "review_required",
@@ -2896,7 +2829,7 @@
         "market": "KR",
         "theme": "원전·SMR",
         "newsStage": "news_signal",
-        "newsMatches": 23,
+        "newsMatches": 24,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2968,7 +2901,7 @@
         "market": "KR",
         "theme": "전력기기",
         "newsStage": "news_signal",
-        "newsMatches": 14,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3004,7 +2937,7 @@
         "market": "KR",
         "theme": "로봇",
         "newsStage": "news_signal",
-        "newsMatches": 26,
+        "newsMatches": 25,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3076,7 +3009,7 @@
         "market": "KR",
         "theme": "방산·우주",
         "newsStage": "news_signal",
-        "newsMatches": 12,
+        "newsMatches": 13,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3158,14 +3091,14 @@
             "date": "2026-10-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
-            "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
-            "date": "2026-10-14"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
             "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
             "date": "2026-09-11"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tTGczY3FSTHRjZEg2QTAyLVFkaExhZnZsTVh1WkVjTVJpRFo1ZzFfa25SVHpJbG92bWhIcjBQNDNaUHh3SkFIZF95bC1VTHMtaDF3YnJRUWJrNzRMLTlsa0lwZmtSRU1GNFpEcGlzSkNMc3Y2MVVERjNod9IBgAFBVV95cUxNLXdKR0lGbVl2N213eUNDOTJMdlRuM0xzeTJ0ZVVOTnQ5eHlsZVVYdFVZcFRiVTFkNmpDWWJhOUt0aEpkWkcyTzBiVTJHRmhQMzRYel85dlk0bE02UmRoQ2IzT2xfRE1RMUxnc1Nud09yQThuQ1pvMnlMQU84STJnTw?oc=5",
+            "title": "중동 쇼크에 10대 건설 해외수주 '반토막' … 삼성E&A·쌍용만 웃었다 - 뉴데일리",
+            "date": "2026-10-14"
           }
         ],
         "status": "review_required",
@@ -3256,7 +3189,7 @@
         "market": "KR",
         "theme": "AI·반도체",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3292,7 +3225,7 @@
         "market": "KR",
         "theme": "바이오",
         "newsStage": "news_signal",
-        "newsMatches": 19,
+        "newsMatches": 18,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3328,7 +3261,7 @@
         "market": "KR",
         "theme": "전고체",
         "newsStage": "news_signal",
-        "newsMatches": 14,
+        "newsMatches": 12,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3338,45 +3271,14 @@
             "date": "2026-09-30"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
-            "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
-            "date": "2026-10-19"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tSFNSNzVjdGVqOVcwM2d6bUYxNEVQbVkxcUNsbGxrODFzeTc2M3ZRZDhuNnpSOEJpQk1EN3hWZ2hOdkJ1c21Fd1ZHbWpPcmVHM3F6SFQ4aVlfbk5EeDR2UnhPTnF0LVdITm9HbdIBcEFVX3lxTE9wQTdjX040em9ka3JQYTVPNFZic2lwalFURC1XN1FYSkJpa25HS0MzcFliaVV1UmhRQTV6cms2X3ptaEJHZjBFNmVEX0Y0MEFHV0I3Wmw1LTBTZzJZR182NEUzY2dfQmlLYkhXdnVONkM?oc=5",
             "title": "[특징주]이수스페셜티케미컬, 황화리튬 상업 생산 기대에 16.61% 뛰어…전고체 배터리주 강세 - 남도일보",
             "date": "2026-09-30"
-          }
-        ],
-        "status": "review_required",
-        "checks": {
-          "publicNews": "observed",
-          "filingSubmitted": "unavailable",
-          "filingContent": "not_verified",
-          "financials": "not_connected",
-          "investorFlow": "not_connected",
-          "valuation": "not_connected"
-        }
-      },
-      {
-        "code": "NVDA",
-        "name": "NVIDIA",
-        "market": "US",
-        "theme": "AI·반도체",
-        "newsStage": "news_signal",
-        "newsMatches": 2,
-        "officialStatus": "not_configured",
-        "filingCount": 0,
-        "sourceLinks": [
-          {
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRRWWRUS0VHb2Q4Y0dhNFdWY1BzTWlqWG8yOXBwZVJtRlFOck5iZlMzcmJlTHZnRkNaZ0hNUXBrTkptb0xqU3RBSUo5V09ERzlxb095YmRmRHNZaFVYVVhUY0ZxN1E4Q0twdFhLTzA0N0lDTnpXUGl3Szc2eHVUcw?oc=5",
-            "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings - CNBC",
-            "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUhCMm5LY3dMOVd6U1daRWpINVhKcXhIcWt0bVlyYTRCWnlVRHY5aDhoc3pHdUlsb1RUbHVUZlV3QkhXVzFDRXpUb2JyMWlkeUw0MU9sTld4U3o3Y1hPQXJFMVVuS2FTR1h5eUVzdUdBTlVkdTVXQXhSZUQxbXltY1hXcTlWY2hxZUJjRkstbkhxekpJTDRuMkpJSTBvM282ckVmQjNzX1VDOVV4?oc=5",
-            "title": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform | NVIDIA Technical Blog - NVIDIA Developer",
-            "date": "2026-10-13"
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xd2p2VHFZMHI5Q1l1UDJRWVVVN1VHSUtnYURJUG5tdVpWOW9rRklBVWZORVozSGgycXc3SFpzcUdwcUtVbTd5RlB4Zm9KRElVbno5a1lCUQ?oc=5",
+            "title": "이수스페셜티케미컬, 황화리튬 마더플랜트 준공…전고체 소재 양산 채비 - 브릿지경제",
+            "date": "2026-10-19"
           }
         ],
         "status": "review_required",
@@ -3395,23 +3297,23 @@
         "market": "US",
         "theme": "AI·클라우드",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
+          {
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
+            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+            "date": "2026-10-28"
+          },
           {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-            "title": "2026 Q3 Earnings Call - Alphabet Investor Relations",
-            "date": "2026-10-28"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
+            "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
             "date": "2026-10-28"
           }
         ],
@@ -3431,24 +3333,19 @@
         "market": "US",
         "theme": "AI·국방",
         "newsStage": "news_signal",
-        "newsMatches": 3,
+        "newsMatches": 2,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wdkIzdGt1UWFvU0E0ZUlmQWhkdG5GaWJvZVc4UDZYaHFnYU9yOWNkdU5xekxFTDJWTERpcDJSN2VIcWI0M01qYlBHSVRhU2FBaE1VOEU1VHJodFgtX2FhYm5IQjBnMkpDSWNlWktFWmlrdFRJSlHSAXtBVV95cUxQVzlMd0xTcFNwb2dGc3dTR1RLYzVWUV9qcGFmRV9TM19rVm9uLWY5OTBkVXRHVFhPa0REbko0dENhaDBNbHduU2pwN2lkT0p3Tll6N0ZPeEQ1emphekVOdlYxSHM4b0NUalZaZGZmM2J6aTVfcnJ4UHQycEU?oc=5",
             "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time - CNBC",
             "date": "2026-11-02"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
             "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-            "date": "2026-10-08"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDhYM0FHV2tfWFF0dVh4ZjZsTjQ2OURLcUlCZlNURldfbE9fMnFCTVhkd2UxMW1YNnQ2OEx0VDVzT0ZXODlmZzllZTJwUHBoWjhDanVOUy1ub0NVNU96WkZaZnFXcHBBWDQ4ZzYxMFJ0STRfRERfZVpTWl9JaTY5SmgxbzA0MFF3aFFFekhuY1l5X190SXZPS09pcU05anZlYzJHaFMxZHZoZw?oc=5",
-            "title": "Will Federal Cloud Partnership Change Palantir Stock Narrative - Yahoo Finance",
-            "date": "2026-10-20"
+            "date": "2026-10-07"
           }
         ],
         "status": "review_required",
@@ -3467,7 +3364,7 @@
         "market": "US",
         "theme": "로봇·자율주행",
         "newsStage": "news_signal",
-        "newsMatches": 7,
+        "newsMatches": 6,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3477,14 +3374,14 @@
             "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
             "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
             "date": "2026-11-06"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdmxXd1NfTG9yQmRhOEhTQ3FqcE9pRjVMNmF3bjBRSjJnLVgzWTlVOGo1SjVUMGQ4NjVoMDkwZENLb0pQUmlmYjZ2NVJIQkZ2dGVON2N4SUt0MlhPVHpaVl82SFU3QVJ4aVJ3bWNtdE5zcEdzVkZYWDdnblg1YXVRdnZGTkw5X0lQbmYwYjFteklUZ1dKR3RDbndXSEJVX24yVmFlVk9WOU1GVlBvT0sxRlJGSlZiS3MyS1J5cHRFN1ZXbmdIcFEyYU9LUHo4MDNGSGdZbGVn?oc=5",
-            "title": "Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says - Reuters",
-            "date": "2026-11-09"
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
+            "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
+            "date": "2026-10-21"
           }
         ],
         "status": "review_required",
@@ -3539,7 +3436,7 @@
         "market": "US",
         "theme": "원전·전력",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 9,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3573,8 +3470,8 @@
     "verifiedRecommendations": [],
     "counts": {
       "observedThemes": 9,
-      "watchStocks": 22,
-      "reviewRequired": 22,
+      "watchStocks": 21,
+      "reviewRequired": 21,
       "confirmedLeaders": 0,
       "confirmedOneYearCandidates": 0,
       "verifiedRecommendations": 0
