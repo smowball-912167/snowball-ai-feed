@@ -1,6 +1,6 @@
 {
   "schema": "snowball.ai_discovery.v1",
-  "generatedAt": "2026-11-13T03:17:47Z",
+  "generatedAt": "2026-11-13T11:59:21Z",
   "status": "ok",
   "scanned": 24,
   "completed": 24,
@@ -22,7 +22,7 @@
       "theme": "AI·HBM",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 8,
+      "matches": 7,
       "stage": "news_signal",
       "evidence": [
         {
@@ -58,7 +58,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -98,21 +98,21 @@
           "publisher": "매일경제"
         },
         {
-          "title": "“삼성그룹 환영”…15년 전 ‘특허 악연’ 털어낸 한미반도체 - 한겨레",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiekhCRkwwb0c4U2tXdzNVTG9DbU1PSVhZeVVhZ1VGWTJLWVZlY2FuTi1ENm5sdkszLWJ1aVZVOEFnTEo1NjR4LU10LXZzeUZ3RzFZRmx2Q25wQnhxSXlfdjc4UjhLT0NfZ2c?oc=5",
-          "date": "2026-10-07",
-          "publisher": "한겨레"
-        },
-        {
           "title": "한미반도체, 3분기 영업이익 908억…3년 연속 최대 매출 전망 - 한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbmhvN0hhWi1UYXZrUFZzdHVMdE91bmN4Sm9nYXI4bWlmZ2M4LVBnUmE1blF4ZkRpekdHd29RcjNqcERwcTQwczRnX3lOeFd5OFotSTlGbWlxUQ?oc=5",
           "date": "2026-10-30",
           "publisher": "한국경제"
+        },
+        {
+          "title": "한미반도체, 인천 제8공장 부지 6230평 '1300억원' 매입 - 전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE90YjlqYmJKM1FNZG1tUmNRTWpPZXUxOExOc25BZ1RNUWJPSjJGQVJLU2xETkJjUHRSTXE1UzFOMXhUWDVraXllMmpzVGZWQQ?oc=5",
+          "date": "2026-08-18",
+          "publisher": "전자신문"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -130,7 +130,7 @@
       "theme": "유리기판·첨단소재",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 15,
+      "matches": 16,
       "stage": "news_signal",
       "evidence": [
         {
@@ -166,7 +166,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -184,7 +184,7 @@
       "theme": "원전·SMR",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 24,
+      "matches": 23,
       "stage": "news_signal",
       "evidence": [
         {
@@ -195,7 +195,7 @@
         },
         {
           "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 - 아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42aHo4cktBdkJUMDF5d2w5WktQMGpaZFUxLVZTbFFZOG9nVjQzMXQzbFdvU3hZVm1hNWwxN1NrLU9haVJEck1WMjgtSkh2Z3FpMkZVd2RidVdWY2xnTDhaSDRn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDYjFWdi1SbUh3d0dLLTJFR0lvSEtTdDZ4WnlJVm01dm8wbzBVUGhpdmkwd25rUS1FMUNmSERrNzlBQ2dHX0pFX0Ixb2JOVkFMUUViSlpBa1Zlc1lMVExyUg?oc=5",
           "date": "2026-10-29",
           "publisher": "아시아경제"
         },
@@ -220,7 +220,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -274,7 +274,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -308,6 +308,12 @@
           "publisher": "KBS 뉴스"
         },
         {
+          "title": "“효성중공업, 매출 이연으로 단기 실적 변동성 확대” - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTE45RG05WVpkMHR0eEtyWFNxZlp1Y0p5X2U1dHA5NV9pU2V6azNmRGtTc05DUWFsV3pOQ25tUmo5RU5XRXhwSDdpckpVbnJqdkE?oc=5",
+          "date": "2026-10-07",
+          "publisher": "매일경제"
+        },
+        {
           "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
           "date": "2026-10-12",
@@ -318,17 +324,11 @@
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUk94c2VUVmdORmNoU21IS05ObHh2bFRIb05BNlc2c1RaazN3T1BuSkdlVlVZQi1sRl9DT2c5ZDBZajFraGwtbWdlaHV5UFdrSHFrOERyVEtmVFEtNmtSYXk4MnE4WjgweDF6ZNIBcEFVX3lxTE5RTEpMSDlYdmNjby1mSTJxUDZKSjJrOW5NeF9sTXlGbXhpcG5UOUNwUzg1bnRlczFWOFk5SGdURDVMTXltM0ViZWo3eFZUYVR5bHV2cWVsd3pLZllzbUplU3NxOGpmX0gtanZMLTlNRlY?oc=5",
           "date": "2026-10-08",
           "publisher": "전기신문"
-        },
-        {
-          "title": "효성중공업, 미국 빅테크와 3천865억원 변압기 공급 계약 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZG5qWmY1UnFMenVSazFveHozZlVCbXNfY0JzSUlqeWF6ZmdTWE00WWNLSkpGaE9pYm5COFI0aFZoMXVhakVFX24zTWw5MzR2Tlg1cGQwYmhlaEnSAWBBVV95cUxPQnZhcGV4NU9lVW1NQVZrZzVtcXJTZ1ZIZlgzN3V1M2Jfa29NUjc0X2xyNU40SVVrMXQ0Q0U0Q3VsRWl2YzZ3Tk9wYkZBQ29ra2dVWU5fN29LdDRDR3duR0E?oc=5",
-          "date": "2026-09-15",
-          "publisher": "연합뉴스"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -346,7 +346,7 @@
       "theme": "로봇",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 25,
+      "matches": 26,
       "stage": "news_signal",
       "evidence": [
         {
@@ -382,7 +382,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -436,7 +436,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -476,21 +476,21 @@
           "publisher": "동아일보"
         },
         {
-          "title": "[브랜드 인사이트] 한화에어로스페이스, 방산기업을 넘어 국가 기술 플랫폼으로 - 천지일보",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZTlUWnA1UGJGRWdPZmlLMGpuNlp5Q2F3dXFMU1dHWnV1T0FmcjJJS1VoR1RzZ01qQWY3NjNCVFBvTUpiYWVaWmhQUTJYQzVOVEhJZEFpbFdrZzd5S0pwZUx5OHdJOXdaLWc?oc=5",
-          "date": "2026-10-06",
-          "publisher": "천지일보"
-        },
-        {
           "title": "한화에어로스페이스, 3분기 영업이익 46%↓…물량인도 지연 영향 - 연합뉴스TV",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12QVJNNFZ6ZW5ORHNVQlRmNlRYeGRDWmpVcU12OVg0TEJXQjlLTVpfcm4xZ0haVk80Qzl4QUF4MzBRck8xQnBvSGhjN1dLMzR4aWpuQUVFSGdOWGRWcmdFZ0hpVUd6dFU?oc=5",
           "date": "2026-10-29",
           "publisher": "연합뉴스TV"
+        },
+        {
+          "title": "방산 선도주 한화에어로스페이스 12% 폭락한 이유 - CNews",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Xb1dYYlFpV0NOTDJZZnhDQzY4aUZpS1VyQ0Nla3d1WWFXby15RUhnc0JfNklicUtrZC1lRHl1NXlZY1IzQTBRSXZtSW9CU0R2dkFuVDZCQ3VmbVQ5TWplM21aZjI1TFY1eXliU2s3OHpoZGV0WmdJ?oc=5",
+          "date": "2026-10-20",
+          "publisher": "CNews"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -544,7 +544,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -598,7 +598,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -616,7 +616,7 @@
       "theme": "배터리",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 13,
+      "matches": 14,
       "stage": "news_signal",
       "evidence": [
         {
@@ -652,7 +652,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -706,7 +706,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -728,16 +728,16 @@
       "stage": "news_signal",
       "evidence": [
         {
-          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
-          "date": "2026-10-15",
-          "publisher": "아시아경제"
-        },
-        {
           "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
           "date": "2026-10-29",
           "publisher": "Chosunbiz"
+        },
+        {
+          "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
+          "date": "2026-10-15",
+          "publisher": "아시아경제"
         },
         {
           "title": "삼성전자 3분기 영업이익 107조 4천 원‥현금배당 30조 원 - MBC 뉴스",
@@ -746,21 +746,21 @@
           "publisher": "MBC 뉴스"
         },
         {
-          "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0Z1ZDlSOWRLZFVLT1Z2YkJWTDFmZHZjOXlkYkw2MndkREM1ZEtZT2gxaHRtRkdzc00tVHV2ZnhrQVZEUk9GXzJTWk5xMThfc3hjcng2blFtUHJpMmpHREhkZC1ZbVRtZHlybHFIN1hqd21iWGYzVWtVMGc0VklkT3Rn0gGWAUFVX3lxTE1iTTlBZTMtVmZkbHVYcDZudjI2M2lEVTBReFlscHgxRno0eTJicUFKYVE3ZTNNOUtwMEJXN2pvQUpmd0ItT3JOMXA3VExLaEZaMmF5RnNLTi1EaVljR3JaOUFFcTBJVElnNVB6VkV4Q3EzSWdiZUVhRVlzUmlsWDFvbHVCOVgxVUJxMmtPVjU2VXpNbzdUZw?oc=5",
-          "date": "2026-10-22",
-          "publisher": "Chosunbiz"
-        },
-        {
           "title": "영업익 99% 반도체…‘역대급 실적’ 삼성전자 “30조 현금배당” - 경향신문",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdTMwa1lkLTllMFRQZ2M4Sm10YlpzUjV2TmV1SmdmQ1ROSGQ5RDNkUnVRV0J4dkVuekZmZnhCcURRNUJocnRmRVRHVXNSZ3V4U2NZM3p5d2tmQdIBX0FVX3lxTE9Sb19hbjFiVzdGbnFRYUlTLW42RHpwOWVtOWMwSXdiRWtrQzBzUUFWenMtdlJrUFN5ZnRyclBjdThaTWltZThPWHdTdUFiVXZROWw1OGx4SFZJdVdkaGhZ?oc=5",
           "date": "2026-10-29",
           "publisher": "경향신문"
+        },
+        {
+          "title": "삼성전자 노조, 합의 5개월 만에 ‘반도체 성과급’ 개선 요구 반영 추진… 개선안 81% 찬성 - Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0Z1ZDlSOWRLZFVLT1Z2YkJWTDFmZHZjOXlkYkw2MndkREM1ZEtZT2gxaHRtRkdzc00tVHV2ZnhrQVZEUk9GXzJTWk5xMThfc3hjcng2blFtUHJpMmpHREhkZC1ZbVRtZHlybHFIN1hqd21iWGYzVWtVMGc0VklkT3Rn0gGWAUFVX3lxTE1iTTlBZTMtVmZkbHVYcDZudjI2M2lEVTBReFlscHgxRno0eTJicUFKYVE3ZTNNOUtwMEJXN2pvQUpmd0ItT3JOMXA3VExLaEZaMmF5RnNLTi1EaVljR3JaOUFFcTBJVElnNVB6VkV4Q3EzSWdiZUVhRVlzUmlsWDFvbHVCOVgxVUJxMmtPVjU2VXpNbzdUZw?oc=5",
+          "date": "2026-10-22",
+          "publisher": "Chosunbiz"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -814,7 +814,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -868,7 +868,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -898,7 +898,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -928,7 +928,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -950,12 +950,6 @@
       "stage": "news_signal",
       "evidence": [
         {
-          "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-          "date": "2026-10-28",
-          "publisher": "The New York Times"
-        },
-        {
           "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
           "date": "2026-10-29",
@@ -969,7 +963,7 @@
         },
         {
           "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNA?oc=5",
           "date": "2026-10-29",
           "publisher": "CNBC"
         },
@@ -978,11 +972,17 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
           "date": "2026-10-29",
           "publisher": "Reuters"
+        },
+        {
+          "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
+          "date": "2026-10-28",
+          "publisher": "The New York Times"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1012,7 +1012,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1048,7 +1048,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1066,7 +1066,7 @@
       "theme": "로봇·자율주행",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 6,
+      "matches": 7,
       "stage": "news_signal",
       "evidence": [
         {
@@ -1074,6 +1074,12 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jQUJkYS1VWmF1WncwNkY1MlItSU14a2FIYUZZaHJBZTNpZW0zTHNtSTVjQUE5cTdMY1hDUmx2blZibEl1dThYa1dVbEJweUZBV28tTnVwR2w1R0U3ZlFIcURteGFjbDdBdlNUTHFHZ2lUbHZwNXV5T244NUU?oc=5",
           "date": "2026-11-11",
           "publisher": "CBS News"
+        },
+        {
+          "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSG1oeC1rMEhSa295Y2lsOEx4bVJITmY3UEJRcWpBRE5SNHMxWWtyN0thOVZxdmI4QzNWYlJhenlOYVJQRVppb1IxR2lEbmxQNlhFOXNNTFVidjdCNEx5Rl9xTmZTUlVydDJSa1ZUVFNMdjU4Uk8wbWlOWUxhYlE2SEZEdUYzUGZTbzZFUngzMjVzaXlhN21DSFgxOHpnd3FwY2J1Smx2Ymdfb0k?oc=5",
+          "date": "2026-11-06",
+          "publisher": "NBC News"
         },
         {
           "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
@@ -1088,21 +1094,15 @@
           "publisher": "CNBC"
         },
         {
-          "title": "Tesla extends Cybertruck production to late summer 2027 amid fan backlash - Electrek",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2I2WU5zeGprVWRYOVZyZG5GeHp4NmYxZTU4bmhRYWR2Y3JneHJrVVZaVE5xSlBrODZLRHlsbV9YUFR3WllNNGRfYmtJb2RfYXloMURJaGJOWjZWMWNacGNlTzZDX1M4eEsxTm1wa3RFTGJDNWsxaVROVlV0cXFNU1hFeElneDlyaGY1cldWeFF0Zktsa3NN?oc=5",
-          "date": "2026-11-11",
-          "publisher": "Electrek"
-        },
-        {
-          "title": "Tesla tuner Unplugged offers to take over Cybertruck production - Electrek",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaVZMTGVkc2k5MlhfV2tGRUpjVksyaGlWcDlBX3JkMG40NHNrQmVNU0JxMVRCN2R2amNxSm10U0pObVpkSUV0REE0WERaLTllLWliOGRuWG1CRkh0Q083eHE4XzNNQUU1aGU4ajJMbU9zUDdlX09TcFVFM1hsb1VZam5NR3NVT3l6cXlKQnhBc0QxT0VBVEM5elliMU1BbFk?oc=5",
-          "date": "2026-11-11",
-          "publisher": "Electrek"
+          "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWRONnpzT0JDVFFLNlFWaFVDLTlPMnh4NmFRWFE2YlZvdnBfejNiV2VLb1pydGFKQmlEQXZmc1RBOUxQSmd6TVBzelVNSDVUSjJFbzBybGJCeWdHbWUzQTdGRE1pbXp5WWt5ajNJV05Hc3BTWkNrQTVmWDlCN25BSktNd1JyQkVFVXZRcnVodXZ2RDVEcXByeVRpcXJJWUE?oc=5",
+          "date": "2026-10-23",
+          "publisher": "CNBC"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1156,7 +1156,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1174,7 +1174,7 @@
       "theme": "원전·전력",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 9,
+      "matches": 10,
       "stage": "news_signal",
       "evidence": [
         {
@@ -1210,7 +1210,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-13T03:17:47Z",
+        "checkedAt": "2026-11-13T11:59:21Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1225,7 +1225,7 @@
   "errors": [],
   "analysisTracks": {
     "schema": "snowball.analysis_tracks.v1",
-    "generatedAt": "2026-11-13T03:17:47Z",
+    "generatedAt": "2026-11-13T11:59:21Z",
     "coverage": "curated_public_news_seeds_KR_US_not_full_market",
     "leaderThemes": [
       {
@@ -1252,7 +1252,7 @@
             "market": "KR",
             "theme": "AI·HBM",
             "newsStage": "news_signal",
-            "newsMatches": 8,
+            "newsMatches": 7,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1311,14 +1311,14 @@
             "filingCount": 0,
             "sourceLinks": [
               {
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
-                "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
-                "date": "2026-10-15"
-              },
-              {
                 "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
                 "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
                 "date": "2026-10-29"
+              },
+              {
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
+                "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
+                "date": "2026-10-15"
               },
               {
                 "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIbjh2SlRNc3hELXZvbUpqeHFDUGNtLVVHMjlMTi03Unpzd3ZfckNPblFSc1RfeVltZW43QTFpMFNHVE5fM0Q1b0FXeURDVFIteE5fM3NOb0JjbzBKTWFNdE9GWFdhNmFkMGplUy1aQmZpd1RE0gF0QVVfeXFMT2V6VUM3R3lLWHE0TUI0ZXp3SjdqeFF0V2VTY2VxY1BVYXg2c0NJSDBuSnQwNHIxY29pU1N0ZFZ6dTZ3Q3RnVXJzbHFFZnBRR1lPVFRkOTg0eWZwODRTdWhLSWhiWWEzODFNc2pqV1pjdndWV2I?oc=5",
@@ -1338,11 +1338,6 @@
             "filingCount": 0,
             "sourceLinks": [
               {
-                "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-                "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
-                "date": "2026-10-28"
-              },
-              {
                 "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
                 "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
                 "date": "2026-10-29"
@@ -1351,6 +1346,11 @@
                 "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
                 "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
                 "date": "2026-10-28"
+              },
+              {
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNA?oc=5",
+                "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+                "date": "2026-10-29"
               }
             ]
           }
@@ -1505,7 +1505,7 @@
             "market": "KR",
             "theme": "배터리",
             "newsStage": "news_signal",
-            "newsMatches": 13,
+            "newsMatches": 14,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1649,9 +1649,9 @@
                 "date": "2026-09-16"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-                "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-                "date": "2026-10-12"
+                "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTE45RG05WVpkMHR0eEtyWFNxZlp1Y0p5X2U1dHA5NV9pU2V6azNmRGtTc05DUWFsV3pOQ25tUmo5RU5XRXhwSDdpckpVbnJqdkE?oc=5",
+                "title": "“효성중공업, 매출 이연으로 단기 실적 변동성 확대” - 매일경제",
+                "date": "2026-10-07"
               }
             ]
           },
@@ -1709,7 +1709,7 @@
             "market": "KR",
             "theme": "로봇",
             "newsStage": "news_signal",
-            "newsMatches": 25,
+            "newsMatches": 26,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1736,7 +1736,7 @@
             "market": "US",
             "theme": "로봇·자율주행",
             "newsStage": "news_signal",
-            "newsMatches": 6,
+            "newsMatches": 7,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1746,14 +1746,14 @@
                 "date": "2026-11-11"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
-                "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+                "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSG1oeC1rMEhSa295Y2lsOEx4bVJITmY3UEJRcWpBRE5SNHMxWWtyN0thOVZxdmI4QzNWYlJhenlOYVJQRVppb1IxR2lEbmxQNlhFOXNNTFVidjdCNEx5Rl9xTmZTUlVydDJSa1ZUVFNMdjU4Uk8wbWlOWUxhYlE2SEZEdUYzUGZTbzZFUngzMjVzaXlhN21DSFgxOHpnd3FwY2J1Smx2Ymdfb0k?oc=5",
+                "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
                 "date": "2026-11-06"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
-                "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
-                "date": "2026-10-21"
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
+                "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+                "date": "2026-11-06"
               }
             ]
           }
@@ -1784,7 +1784,7 @@
             "market": "KR",
             "theme": "원전·SMR",
             "newsStage": "news_signal",
-            "newsMatches": 24,
+            "newsMatches": 23,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1794,7 +1794,7 @@
                 "date": "2026-10-29"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42aHo4cktBdkJUMDF5d2w5WktQMGpaZFUxLVZTbFFZOG9nVjQzMXQzbFdvU3hZVm1hNWwxN1NrLU9haVJEck1WMjgtSkh2Z3FpMkZVd2RidVdWY2xnTDhaSDRn?oc=5",
+                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDYjFWdi1SbUh3d0dLLTJFR0lvSEtTdDZ4WnlJVm01dm8wbzBVUGhpdmkwd25rUS1FMUNmSERrNzlBQ2dHX0pFX0Ixb2JOVkFMUUViSlpBa1Zlc1lMVExyUg?oc=5",
                 "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 - 아시아경제",
                 "date": "2026-10-29"
               },
@@ -1811,7 +1811,7 @@
             "market": "US",
             "theme": "원전·전력",
             "newsStage": "news_signal",
-            "newsMatches": 9,
+            "newsMatches": 10,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1907,7 +1907,7 @@
             "market": "KR",
             "theme": "유리기판·첨단소재",
             "newsStage": "news_signal",
-            "newsMatches": 15,
+            "newsMatches": 16,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "sourceLinks": [
@@ -1988,7 +1988,7 @@
         "market": "KR",
         "theme": "AI·HBM",
         "newsStage": "news_signal",
-        "newsMatches": 8,
+        "newsMatches": 7,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2058,7 +2058,7 @@
         "market": "KR",
         "theme": "유리기판·첨단소재",
         "newsStage": "news_signal",
-        "newsMatches": 15,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2093,7 +2093,7 @@
         "market": "KR",
         "theme": "원전·SMR",
         "newsStage": "news_signal",
-        "newsMatches": 24,
+        "newsMatches": 23,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2103,7 +2103,7 @@
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42aHo4cktBdkJUMDF5d2w5WktQMGpaZFUxLVZTbFFZOG9nVjQzMXQzbFdvU3hZVm1hNWwxN1NrLU9haVJEck1WMjgtSkh2Z3FpMkZVd2RidVdWY2xnTDhaSDRn?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDYjFWdi1SbUh3d0dLLTJFR0lvSEtTdDZ4WnlJVm01dm8wbzBVUGhpdmkwd25rUS1FMUNmSERrNzlBQ2dHX0pFX0Ixb2JOVkFMUUViSlpBa1Zlc1lMVExyUg?oc=5",
             "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 - 아시아경제",
             "date": "2026-10-29"
           },
@@ -2178,9 +2178,9 @@
             "date": "2026-09-16"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-            "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-            "date": "2026-10-12"
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTE45RG05WVpkMHR0eEtyWFNxZlp1Y0p5X2U1dHA5NV9pU2V6azNmRGtTc05DUWFsV3pOQ25tUmo5RU5XRXhwSDdpckpVbnJqdkE?oc=5",
+            "title": "“효성중공업, 매출 이연으로 단기 실적 변동성 확대” - 매일경제",
+            "date": "2026-10-07"
           }
         ],
         "status": "observation_only",
@@ -2198,7 +2198,7 @@
         "market": "KR",
         "theme": "로봇",
         "newsStage": "news_signal",
-        "newsMatches": 25,
+        "newsMatches": 26,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2373,7 +2373,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2448,14 +2448,14 @@
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
-            "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
-            "date": "2026-10-15"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
             "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
             "date": "2026-10-29"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
+            "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
+            "date": "2026-10-15"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIbjh2SlRNc3hELXZvbUpqeHFDUGNtLVVHMjlMTi03Unpzd3ZfckNPblFSc1RfeVltZW43QTFpMFNHVE5fM0Q1b0FXeURDVFIteE5fM3NOb0JjbzBKTWFNdE9GWFdhNmFkMGplUy1aQmZpd1RE0gF0QVVfeXFMT2V6VUM3R3lLWHE0TUI0ZXp3SjdqeFF0V2VTY2VxY1BVYXg2c0NJSDBuSnQwNHIxY29pU1N0ZFZ6dTZ3Q3RnVXJzbHFFZnBRR1lPVFRkOTg0eWZwODRTdWhLSWhiWWEzODFNc2pqV1pjdndWV2I?oc=5",
@@ -2553,11 +2553,6 @@
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
-            "date": "2026-10-28"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
@@ -2566,6 +2561,11 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
             "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
             "date": "2026-10-28"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNA?oc=5",
+            "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+            "date": "2026-10-29"
           }
         ],
         "status": "observation_only",
@@ -2613,7 +2613,7 @@
         "market": "US",
         "theme": "로봇·자율주행",
         "newsStage": "news_signal",
-        "newsMatches": 6,
+        "newsMatches": 7,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2623,14 +2623,14 @@
             "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
-            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSG1oeC1rMEhSa295Y2lsOEx4bVJITmY3UEJRcWpBRE5SNHMxWWtyN0thOVZxdmI4QzNWYlJhenlOYVJQRVppb1IxR2lEbmxQNlhFOXNNTFVidjdCNEx5Rl9xTmZTUlVydDJSa1ZUVFNMdjU4Uk8wbWlOWUxhYlE2SEZEdUYzUGZTbzZFUngzMjVzaXlhN21DSFgxOHpnd3FwY2J1Smx2Ymdfb0k?oc=5",
+            "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
             "date": "2026-11-06"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
-            "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
-            "date": "2026-10-21"
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
+            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+            "date": "2026-11-06"
           }
         ],
         "status": "observation_only",
@@ -2683,7 +2683,7 @@
         "market": "US",
         "theme": "원전·전력",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2721,7 +2721,7 @@
         "market": "KR",
         "theme": "AI·HBM",
         "newsStage": "news_signal",
-        "newsMatches": 8,
+        "newsMatches": 7,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2793,7 +2793,7 @@
         "market": "KR",
         "theme": "유리기판·첨단소재",
         "newsStage": "news_signal",
-        "newsMatches": 15,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2829,7 +2829,7 @@
         "market": "KR",
         "theme": "원전·SMR",
         "newsStage": "news_signal",
-        "newsMatches": 24,
+        "newsMatches": 23,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -2839,7 +2839,7 @@
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42aHo4cktBdkJUMDF5d2w5WktQMGpaZFUxLVZTbFFZOG9nVjQzMXQzbFdvU3hZVm1hNWwxN1NrLU9haVJEck1WMjgtSkh2Z3FpMkZVd2RidVdWY2xnTDhaSDRn?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDYjFWdi1SbUh3d0dLLTJFR0lvSEtTdDZ4WnlJVm01dm8wbzBVUGhpdmkwd25rUS1FMUNmSERrNzlBQ2dHX0pFX0Ixb2JOVkFMUUViSlpBa1Zlc1lMVExyUg?oc=5",
             "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 - 아시아경제",
             "date": "2026-10-29"
           },
@@ -2916,9 +2916,9 @@
             "date": "2026-09-16"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-            "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-            "date": "2026-10-12"
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PTE45RG05WVpkMHR0eEtyWFNxZlp1Y0p5X2U1dHA5NV9pU2V6azNmRGtTc05DUWFsV3pOQ25tUmo5RU5XRXhwSDdpckpVbnJqdkE?oc=5",
+            "title": "“효성중공업, 매출 이연으로 단기 실적 변동성 확대” - 매일경제",
+            "date": "2026-10-07"
           }
         ],
         "status": "review_required",
@@ -2937,7 +2937,7 @@
         "market": "KR",
         "theme": "로봇",
         "newsStage": "news_signal",
-        "newsMatches": 25,
+        "newsMatches": 26,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3117,7 +3117,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3194,14 +3194,14 @@
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
-            "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
-            "date": "2026-10-15"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
             "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
             "date": "2026-10-29"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42a2VKbE04czhuZmVoNVBqQXYxQWNjWXNfeGhMWTQtaWNYV05QcXJZRy1hc21pWGtVN2VwZHh4alhhOGlSMUJLWnc2WW5BeV93Ym9teWJMMFZSM2pSZzZxdQ?oc=5",
+            "title": "\"삼성전자 7만원, 하이닉스 20만원\"…'역대급 실적'에도 어두운 전망, 왜 - 아시아경제",
+            "date": "2026-10-15"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIbjh2SlRNc3hELXZvbUpqeHFDUGNtLVVHMjlMTi03Unpzd3ZfckNPblFSc1RfeVltZW43QTFpMFNHVE5fM0Q1b0FXeURDVFIteE5fM3NOb0JjbzBKTWFNdE9GWFdhNmFkMGplUy1aQmZpd1RE0gF0QVVfeXFMT2V6VUM3R3lLWHE0TUI0ZXp3SjdqeFF0V2VTY2VxY1BVYXg2c0NJSDBuSnQwNHIxY29pU1N0ZFZ6dTZ3Q3RnVXJzbHFFZnBRR1lPVFRkOTg0eWZwODRTdWhLSWhiWWEzODFNc2pqV1pjdndWV2I?oc=5",
@@ -3302,11 +3302,6 @@
         "filingCount": 0,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
-            "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
-            "date": "2026-10-28"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
@@ -3315,6 +3310,11 @@
             "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0Q0YVlPZW5LQlJKcXFTOEFremJocUtxWVVTM0RzWlBETjlCdk9IRTZwdkVFeUY5eHE3OUJTNWVEc2k2Mkt0UGRhbVd3cmRtdUtsX0ZEQnFDOFBzWXR0ZTVlei0xbEhZcGJUb0RRNFRGYjJVcG1oaGNlV1BOU2stMGdzUkFTQ0FVN2MydDZoVEYzZ1ZZQk1pZGtuZzFTaUJKMXM0bXRnUzA?oc=5",
             "title": "Alphabet’s Google Cloud revenue doubles to $31 billion as cash flow stays deep red - Fortune",
             "date": "2026-10-28"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNA?oc=5",
+            "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+            "date": "2026-10-29"
           }
         ],
         "status": "review_required",
@@ -3364,7 +3364,7 @@
         "market": "US",
         "theme": "로봇·자율주행",
         "newsStage": "news_signal",
-        "newsMatches": 6,
+        "newsMatches": 7,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
@@ -3374,14 +3374,14 @@
             "date": "2026-11-11"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
-            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSG1oeC1rMEhSa295Y2lsOEx4bVJITmY3UEJRcWpBRE5SNHMxWWtyN0thOVZxdmI4QzNWYlJhenlOYVJQRVppb1IxR2lEbmxQNlhFOXNNTFVidjdCNEx5Rl9xTmZTUlVydDJSa1ZUVFNMdjU4Uk8wbWlOWUxhYlE2SEZEdUYzUGZTbzZFUngzMjVzaXlhN21DSFgxOHpnd3FwY2J1Smx2Ymdfb0k?oc=5",
+            "title": "Tesla to wind down Cybertruck production after years of poor sales in few markets - NBC News",
             "date": "2026-11-06"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1rRTRZdEQyQ0tYemI0R0tuYi04TWhxWEVoRGx6M3h3MWpWTzhRdnpvZTk4R2tSV09GX2dNS0p6ckxOMkpDd3NCbEViY1ZtOUNOU0JjejU5VjhoVTRIRjZ2SHBiOG0wbXY0NmVBUmFUTDFWZ01LSmZraHN4TQ?oc=5",
-            "title": "Tesla beats on earnings and sales even as auto revenue declines - CNBC",
-            "date": "2026-10-21"
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOHpuVjVYejRkd2VlX2hvWGF0RDMxYUNzTGcxaTFadzNJT1c0Y19idmNzSl9nNDFFZnUzaWh4VFU4VkNqSWJOR3EzWk91MWhUdGxhamVWaEkxd1lOYVB3QnVOV1l5V0RCcXRndVQ3bE5DUdIBd0FVX3lxTE56Sy1vYlZjU2N0N2tfU3NMOGZ1TnNfaHQ5bmRYV0JxeENDZFpjMElvelY3RW52U2hMYXRkaHM4UlZaWVJaak9vUVVnUllwQ3hIbDhmb3N0d1RYeHdqQTh3cjJ6Z0lXRXVMS1VuclU5cFpfTjNNeXdJ?oc=5",
+            "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says - CNBC",
+            "date": "2026-11-06"
           }
         ],
         "status": "review_required",
@@ -3436,7 +3436,7 @@
         "market": "US",
         "theme": "원전·전력",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 10,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "sourceLinks": [
