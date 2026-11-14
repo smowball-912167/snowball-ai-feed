@@ -1,16 +1,17 @@
-name: SNOWBALL V336 AI Feed (ZIP bootstrap)
+name: SNOWBALL V339 AI Feed (ZIP bootstrap)
 
 on:
   workflow_dispatch:
   schedule:
-    # Korea: approximately 08:00, 13:00, 19:00; GitHub may delay schedules.
+    # Korea 08:00, 13:00, 19:00 approx.; Github schedule may be delayed.
     - cron: '0 23,4,10 * * *'
 
 permissions:
   contents: write
 
 concurrency:
-  group: snowball-v336-public-feed
+  # Must share group with previous V336 workflow until it is replaced.
+  group: snowball-public-news-feed
   cancel-in-progress: false
 
 jobs:
@@ -18,54 +19,80 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
-      - name: Checkout public feed repository
+      - name: Checkout public research feed
         uses: actions/checkout@v4
       - name: Install Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Extract the V336 archive already uploaded to repository root
+      - name: Install V339 source without replacing recorded feed history
         shell: bash
         run: |
-          test -f SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip || { echo 'Missing SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip in repository root'; exit 1; }
-          unzip -oq SNOWBALL_AI_FEED_V336_GITHUB_UPLOAD.zip -d .
-          test -f automation/ai_discovery_collector.py
-          test -f tools/validate_v336_published_feed.py
-      - name: Run supplied V336 tests
+          if test -f SNOWBALL_AI_FEED_V339_GITHUB_UPLOAD.zip; then
+            PACKAGE=SNOWBALL_AI_FEED_V339_GITHUB_UPLOAD.zip
+          elif test -f SNOWBALL_V339_AI_SERVER_REDOWNLOAD.zip; then
+            PACKAGE=SNOWBALL_V339_AI_SERVER_REDOWNLOAD.zip
+          else
+            echo 'V339 AI server ZIP is missing at repository root'; exit 1
+          fi
+          unzip -oq "$PACKAGE" -d .
+          test -f automation/legacy_flow_reuse.py
+          test -f tools/validate_v338_published_feed.py
+      - name: Validate single-owner collector registry
+        run: python tools/check_server_registry_v338.py
+      - name: Run regression tests (no live network in tests)
         run: |
           python tools/test_v333_collector.py
           python tools/test_v334_official.py
           python tools/test_v335_tracks.py
           python tools/test_v336_published_feed.py
-      - name: Collect public news and official filings
+          python tools/test_v337_market_daily.py
+          python tools/test_v337_feed.py
+          python tools/test_v337_integration.py
+          python tools/test_v338_flow_reuse.py
+          python tools/test_v338_full_integration.py
+          python tools/test_v339_candidate_gate.py
+      - name: Restore optional, approved private app-export summary
+        shell: bash
+        env:
+          SNOWBALL_LEGACY_FLOW_B64: ${{ secrets.SNOWBALL_LEGACY_FLOW_B64 }}
+        run: |
+          mkdir -p private_input
+          if test -n "$SNOWBALL_LEGACY_FLOW_B64"; then
+            printf '%s' "$SNOWBALL_LEGACY_FLOW_B64" | base64 --decode > private_input/legacy_flow_summary.json
+            test "$(wc -c < private_input/legacy_flow_summary.json)" -le 150000
+          fi
+      - name: Collect existing public research sources plus opt-in app summary
         id: collect
         continue-on-error: true
         env:
           DART_API_KEY: ${{ secrets.DART_API_KEY }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          KRX_API_KEY: ${{ secrets.KRX_API_KEY }}
+          SNOWBALL_FLOW_PUBLICATION_APPROVED: ${{ vars.SNOWBALL_FLOW_PUBLICATION_APPROVED }}
         run: python automation/ai_discovery_collector.py
-      - name: Validate the result (also accepts explicit error status)
-        run: python tools/validate_v336_published_feed.py docs/ai_discovery_feed.json
-      - name: Upload snapshot for debugging
+      - name: Validate V339 public JSON and block unverified recommendations
+        run: python tools/validate_v338_published_feed.py docs/ai_discovery_feed.json
+      - name: Upload feed diagnostics snapshot
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: snowball-v336-feed-snapshot
+          name: snowball-v339-feed-snapshot
           path: docs/ai_discovery_feed.json
           if-no-files-found: warn
           retention-days: 14
-      - name: Publish validated feed and scan history
+      - name: Commit only public feed and scan history
         shell: bash
         run: |
-          git config user.name "snowball-feed-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name 'snowball-feed-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add docs/ai_discovery_feed.json docs/ai_discovery_history.json
           if ! git diff --cached --quiet; then
-            git commit -m "data: update V336 AI public feed"
+            git commit -m 'data: update V339 AI research feed'
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
-      - name: Report a total collector failure as a failed run
+      - name: Mark total news-collector outage as failed
         if: steps.collect.outcome == 'failure'
         run: |
-          echo 'Collector reported total failure; diagnostic JSON was published with status=error.'
+          echo 'Collector reported total news failure: diagnostic feed still preserved.'
           exit 1
