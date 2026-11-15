@@ -1,6 +1,6 @@
 {
   "schema": "snowball.ai_discovery.v1",
-  "generatedAt": "2026-11-15T02:28:17Z",
+  "generatedAt": "2026-11-15T11:50:34Z",
   "status": "ok",
   "scanned": 24,
   "completed": 24,
@@ -63,10 +63,10 @@
           "publisher": "SK hynix"
         },
         {
-          "title": "SK하이닉스, '파격적 성과급' 기대감 속 하반기 생산직 채용 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vdGd0a2hvcUc3TFl1SUlOVExDa3NnQUVkaUQ3WE41MjlPLThmSnBxU1NmLVc5RkY2OU4wbl9vZEZkS21BV1JRNGxYQmQxS2Y1LV9nRW9aaVJoSzjSAWBBVV95cUxPQy1lUlk1RDh5aW1tQktCQ09Ed1NjSnM2ZXZWWWJXWW9Id01nQm9BN3htb0hJWVRUR0l4X2xMb3MwS2tkOEVibEw0SG9rbVBWaU4xMUJXUkNrUnhIckpkcWI?oc=5",
-          "date": "2026-11-11",
-          "publisher": "연합뉴스"
+          "title": "[특징주] SK하이닉스(000660), 주가 급락에도 실적·재무 체력 '굳건' - 인천일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkdWdkdHBlMm9DT3hkRklzZXMtQjdoNHhhVVpYMDVXWHpvbHNHZEpxYzFCVV9BX2RBd0laYVZrZ1NSNHd5SThtSXlRLS1GSFJMNzlEMks2Z0tmdjFWVVV6clR4dl9UckJWVmZJVHlaQl8?oc=5",
+          "date": "2026-11-15",
+          "publisher": "인천일보"
         },
         {
           "title": "SK하이닉스 내일 3분기 실적공개…주주환원 카드 나오나 - 연합뉴스",
@@ -77,7 +77,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -134,7 +134,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -155,7 +155,7 @@
       "theme": "유리기판·첨단소재",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 15,
+      "matches": 16,
       "stage": "news_signal",
       "evidence": [
         {
@@ -191,7 +191,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -248,7 +248,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -305,7 +305,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -326,7 +326,7 @@
       "theme": "전력기기",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 13,
+      "matches": 14,
       "stage": "news_signal",
       "evidence": [
         {
@@ -336,33 +336,33 @@
           "publisher": "Daum"
         },
         {
-          "title": "효성중공업, 미국 빅테크와 3,860억 원 변압기 계약 - KBS 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SV280WVp0aHVoRjVVR3E5VXNiNWpCN1N6SkFwYktrdm81d0xQM0QtNXFqTjlHY1VOUW1TQXdtR080b1ZES05EdTBoVkdMS2FFTTBhSkYwLXJnaUU?oc=5",
-          "date": "2026-09-16",
-          "publisher": "KBS 뉴스"
-        },
-        {
-          "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-          "date": "2026-10-12",
-          "publisher": "한국경제"
-        },
-        {
           "title": "에너지 고속도로 기술 자립화 시동… 효성중공업, GW급 HVDC 성능 검증설비 국내 첫 구축 - 전기신문",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUk94c2VUVmdORmNoU21IS05ObHh2bFRIb05BNlc2c1RaazN3T1BuSkdlVlVZQi1sRl9DT2c5ZDBZajFraGwtbWdlaHV5UFdrSHFrOERyVEtmVFEtNmtSYXk4MnE4WjgweDF6ZNIBcEFVX3lxTE5RTEpMSDlYdmNjby1mSTJxUDZKSjJrOW5NeF9sTXlGbXhpcG5UOUNwUzg1bnRlczFWOFk5SGdURDVMTXltM0ViZWo3eFZUYVR5bHV2cWVsd3pLZllzbUplU3NxOGpmX0gtanZMLTlNRlY?oc=5",
           "date": "2026-10-08",
           "publisher": "전기신문"
         },
         {
-          "title": "효성중공업, '초고압직류송전' 찾는 AI 기업서 12조 수주…생산량 50% 늘린다 - 한국경제",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Bbm45cXNfZUFzcU9hQnM0dnZobW1Uc2pEUzFmYVJXc29aeXp0OXprTWtSb2stdUlCcGRPajBESXVlR2pmNTdDbEFJMV91QnI5MUtTV2IzTEY0UQ?oc=5",
-          "date": "2026-10-11",
+          "title": "효성중공업, 미국 빅테크와 3,860억 원 변압기 계약 - KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SV280WVp0aHVoRjVVR3E5VXNiNWpCN1N6SkFwYktrdm81d0xQM0QtNXFqTjlHY1VOUW1TQXdtR080b1ZES05EdTBoVkdMS2FFTTBhSkYwLXJnaUU?oc=5",
+          "date": "2026-09-16",
+          "publisher": "KBS 뉴스"
+        },
+        {
+          "title": "\"흔들리지 마세요, 400만닉스 갑니다\"…\"효성중공업, 실적 하회에도 중장기 이익성장 의심할 여지 없다\" [株토피아] - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NWGtuM3l4a1AzN1VSdnlZbDN4enBsb21jTlpkVFlyWk85a1ZzcmxQQjdyOWNxdFNKMkJQZVNLa281UTFnNmxfbzJTczdTRFRnRElnZzVaRnJwUQ?oc=5",
+          "date": "2026-10-07",
+          "publisher": "파이낸셜뉴스"
+        },
+        {
+          "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
+          "date": "2026-10-12",
           "publisher": "한국경제"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -419,7 +419,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -440,7 +440,7 @@
       "theme": "방산",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 20,
+      "matches": 19,
       "stage": "news_signal",
       "evidence": [
         {
@@ -448,6 +448,12 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rdmYxWlFlZEY5UUhfbXU0aW9WN3dRTEx6QXZjcmI2TEJqR2RRSGxQYXEzMHhDLXRtZDBGbTh1Z3dlZWsxNXVwMFZ1eVhHVWJGNTZqYzFXRkNxbHh0Z2hjWnZtaUIwcmNIVDhn?oc=5",
           "date": "2026-10-13",
           "publisher": "디지털포스트"
+        },
+        {
+          "title": "[이번주 관심주] 현대로템, 방산주 실적 포문...환율 악재 속 'K2 수출'이 돌파구 - 오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nREloaFNFUmdyR08yNW04b3RYdUh3TW1naFp2d1hzWXUxejFBZUxkNEFON003S3FvR2lTa2JncXhNNUNlRTJuZEVLUUMwQU5DVDhZRmFSRUpjMTUzRkIxTVY1NFlEaDVORHBqSDI3SURRQQ?oc=5",
+          "date": "2026-10-18",
+          "publisher": "오피니언뉴스"
         },
         {
           "title": "현대로템, 3Q 영업익 2.8천억대 '선방' 전망…폴란드 납품이 견인 - 연합인포맥스",
@@ -466,17 +472,11 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sTVJLMFZZOWxEeExIcGg3Y3JwZGlhbjRycW5ibUhJeUt4czlDVGdGUGlFVGtwcS11dXFpRDZ6Q2N2WmNmVUJkeGI1c05zQXdnMWxNRGpkWFg1dw?oc=5",
           "date": "2026-10-13",
           "publisher": "한국경제"
-        },
-        {
-          "title": "[이번주 관심주] 현대로템, 방산주 실적 포문...환율 악재 속 'K2 수출'이 돌파구 - 오피니언뉴스",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nREloaFNFUmdyR08yNW04b3RYdUh3TW1naFp2d1hzWXUxejFBZUxkNEFON003S3FvR2lTa2JncXhNNUNlRTJuZEVLUUMwQU5DVDhZRmFSRUpjMTUzRkIxTVY1NFlEaDVORHBqSDI3SURRQQ?oc=5",
-          "date": "2026-10-18",
-          "publisher": "오피니언뉴스"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -497,7 +497,7 @@
       "theme": "방산·우주",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 13,
+      "matches": 14,
       "stage": "news_signal",
       "evidence": [
         {
@@ -525,15 +525,15 @@
           "publisher": "지디넷코리아"
         },
         {
-          "title": "한화에어로스페이스, 1만파운드급 항공엔진 개발 과제 수주 - 디일렉",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01WkhORlhqZDlhaENyaFpIUnpReTlrSnAwMUcxZ3BoS1N5TVNHekdPdTkxWFA0VUdKazhhaVIzN1hEX1BTQ2NrdUhxZVA2QVFXMk9fcUpmQlkyak9KdFd1aVNDN2dmUQ?oc=5",
-          "date": "2026-11-13",
-          "publisher": "디일렉"
+          "title": "링크솔루션, 한화에어로스페이스서 6.5억원 규모 적층제조 개발사업 수주 - 한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MeW5rVHdNNy1nS1NPWmtCNjVHRy1aaGNkTDJHQkR6VHpFc242SHNxVkRfOXFZVV8wZFpnRG45Z3l3VHRvSVU2VENaMTluT21lUEJ2YXZ5UkQwQQ?oc=5",
+          "date": "2026-08-25",
+          "publisher": "한국경제"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -590,7 +590,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -611,7 +611,7 @@
       "theme": "플랜트·자동화",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 28,
+      "matches": 25,
       "stage": "news_signal",
       "evidence": [
         {
@@ -627,27 +627,27 @@
           "publisher": "뉴데일리"
         },
         {
+          "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
+          "date": "2026-09-11",
+          "publisher": "연합뉴스"
+        },
+        {
           "title": "[버핏 리포트] 삼성E&A, 3분기 영업익 컨센서스 2배...’관계사 수주·’특별배당에 목표가 상향 - 신한 - 버핏연구소",
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscU1RWFltLWw5UGw4SDFfV1UtazlYQlpTTjEya3JTRmxJcTlWRG1UM3hJYkRHcWdadkNRRERfMjlaVnpHNnZtcFBtdHBnRXZ2b3E2OTltYVg3cC0zTlIxUTNR?oc=5",
           "date": "2026-10-23",
           "publisher": "버핏연구소"
         },
         {
-          "title": "삼성E&A 사상 첫 영업이익 1조 가능성, 남궁홍 체질 개선에 반도체 특수 더해 - 비즈니스포스트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZcmttS1IteE4tWk81cnFRQVp5c1VzU2g0RHMzeDhtbzlUMk85YWg5WVlYY01XNVZlQXNLYV9kVmlDcF9Sa0czbm43d3N1ZEpPV0dtZVhZVnVOVExPdmhFSHlCUlIwdFpCMnZPNnFJazB6Z0U?oc=5",
-          "date": "2026-08-31",
-          "publisher": "비즈니스포스트"
-        },
-        {
-          "title": "현대차證 “삼성E&A, 연간 수주 목표 초과 달성 전망… 목표가 6만9000원으로 상향” - Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeGR3Z21aSGJ2anhpZnR2RTl4SmVXaGY5ZzNIX2FaZnQ2aVlINjcyeUNIVE9ONnhQZmI0MEc2Y3RCb3JnaV9ENVVuQ1F5dFlRaWZJYTJINzJyaW5wcURobE1XVHBFYVFGcU1IR0NXeDV3WU1aZVhKTnNLdUIwODlNWUNxaVFQRVFD0gGcAUFVX3lxTE1WRGV1MURTdG9OU1BLRmUzSjlJbXR5T0hfc0pLb3F4eU5pTk9CS2NKM1BlUWNCUHNYWHJiUHEyeGJtN1ZaQTNIdTRDZ1AxVHAyMHJ0MlhrTDRfRFByVkxEeEVfSXZWLUVjVnJmb1ZVTkN3MXA4akdoYktiaVdGY3BGcGpKY1hfX1E0N3d1SnBZQWp5bG1JeWF2MUlyZQ?oc=5",
-          "date": "2026-10-08",
-          "publisher": "Chosunbiz"
+          "title": "삼성E&A, 4분기 대형 수주 기대…목표가 7.3만원 유지-유안타 - 마켓인",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OeG9hbHRTOVNkSW1iLWxRc09PRFh1V3ZyVlFmRU9tcjVzd085b0taYVU2Tlp0MHItS0tBd1dldHFYdldQMnpNTVlNYU44NnFMRzBYdFF0SW1xUTdtZHFzUk0wb05YSE4wejBUbUhXeC10dFk?oc=5",
+          "date": "2026-10-16",
+          "publisher": "마켓인"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -668,7 +668,7 @@
       "theme": "배터리",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 11,
+      "matches": 12,
       "stage": "news_signal",
       "evidence": [
         {
@@ -704,7 +704,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -725,7 +725,7 @@
       "theme": "배터리",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 21,
+      "matches": 22,
       "stage": "news_signal",
       "evidence": [
         {
@@ -761,7 +761,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -782,7 +782,7 @@
       "theme": "AI·반도체",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 10,
+      "matches": 9,
       "stage": "news_signal",
       "evidence": [
         {
@@ -798,12 +798,6 @@
           "publisher": "MBC 뉴스"
         },
         {
-          "title": "삼성전자, 실적·배당 공개…코스피, 하락 전환 - 뉴스토마토",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVFRxbWp5OFZ3SWdNT3VHQ0Z4SFdTTVFSemNtMnFBTndrNzJPaW1jbWtaZHdDY2NuYW5PS2RPdFVTTy1CZ3l5UGtodHEyTjdvTGNyZlB0VU5PS19PNE9NaQ?oc=5",
-          "date": "2026-10-29",
-          "publisher": "뉴스토마토"
-        },
-        {
           "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
           "date": "2026-10-29",
@@ -814,11 +808,17 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWdzRkNGNmMXl4OEV1T1JMTU9pRW9jMXV6VlVnbHJxbF9ZQmptMHZfbjlQMFBpdTJHNXNNVHFZRzFKSkN2Y2NXbkxUblVMclVDWjZ2UUFSUHNHZw?oc=5",
           "date": "2026-10-14",
           "publisher": "파이낸셜뉴스"
+        },
+        {
+          "title": "삼성전자, ‘360조 용인 반도체 산단 청사진’ 주민에 소개 - 동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qeDdDVXFHd09wUXVqRkdVa09TREZKTVJBZnhFR2tpdV8xaThPVDRrQWdLVDRrOThFbnVzdDVTVlJHdXZ6cmJPRUtEM3pIVWxOc29BaUQzR1Z1eHpfUExGWTlxRXA0c1VzY2F3VUlNZXE1ZlV3QlHSAWZBVV95cUxOeTFzSGM4TnkwbjQ4LXJxbnlMODkxZnBOUWVWT1RkUldUdGdqclFDSVVFczF2Y3M0bUNNcUxXcS02eXUzajJLVWNzWHZrYndSYkhySXlrSFVNcVlVRWkyMG4wYUpOdGc?oc=5",
+          "date": "2026-10-05",
+          "publisher": "동아일보"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -849,10 +849,10 @@
           "publisher": "Chosunbiz"
         },
         {
-          "title": "수급업자 잘못 없는데도 계약 취소 갑질…셀트리온 과징금 6.3억 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mVWNTUTR0bzJYTHNZMkR1MjhLVm12U3ZYOVRVMjlNN19nWkJvMGFmT28taFVhTGszd1EzQ2VyV19LblBiTTdCWTJ3V29kbngxZjdSN0ljbmdfc03SAWBBVV95cUxPNHN2cjE0cjd4MEN0UWViMHJMX2pxQUt6bnJCOGNvaWREOGQ3ek8xcVNRTHdOWnB6T1ExVDFETGlFZTFzRjBXMDNzdnNsMTQyWVRUX1hoTFI2NmJ1aEtSMy0?oc=5",
-          "date": "2026-10-29",
-          "publisher": "연합뉴스"
+          "title": "\"늘어나는 수요 대응하자\"…셀트리온, 자체 증설·외부 CMO 활용 '투트랙' - 연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSDlLdS1JS2ZPZVlxdjU4bTRuNk1MQ3AydTYyUE5yVGFZaEpxaWs4Mk9WU1R0UVVDd0tabEdUdmVvbXp6QnZDRHNKb0VCZTN2cnNWbmxHRWNtc2ZrZldKcDBPOXlvajFQZXc4cGJIZFk?oc=5",
+          "date": "2026-11-07",
+          "publisher": "연합인포맥스"
         },
         {
           "title": "셀트리온 \"미국 대형 처방약급여관리업체와 계약 임박, 4분기 체결 목표\" - 비즈니스포스트",
@@ -875,7 +875,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -932,7 +932,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "OpenDART"
@@ -958,7 +958,7 @@
       "evidence": [],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -979,12 +979,19 @@
       "theme": "AI·클라우드",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 0,
+      "matches": 1,
       "stage": "insufficient",
-      "evidence": [],
+      "evidence": [
+        {
+          "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNclpVVGdGd3NYYWo4bGNFRTVlYjhQc0VhMzhmZnRsRnlTNkRidVNwaGlQVVdPMktwMHRMYzhUTWpYUXFYaVFfZFRkSkRmbDNGOWxVa29MSWhhUDk4RE9BVElXUTY3SWo2SHRNbGVhRU9vbjd3ZHJnZlpTdHpSbHpDNNIBhgFBVV95cUxNRXA0VC1WZEYxMWVmenJmdVRiRzhDRFVzUVNVNlJXaEJDc011NjZuT2VHdTJLYndYaGV1NDM2UU93Zm12X1J2VWtYMEJNQ3ZkU0Nhb3M0c0dQT3pzVFl3eTlqLWluNHJjRHpVRTJicTdqSXNTSHBVQjdKWlJtYjZjN2tQZkc3dw?oc=5",
+          "date": "2026-10-28",
+          "publisher": "CNBC"
+        }
+      ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1005,15 +1012,9 @@
       "theme": "AI·클라우드",
       "searchStatus": "ok",
       "received": 45,
-      "matches": 9,
+      "matches": 8,
       "stage": "news_signal",
       "evidence": [
-        {
-          "title": "2026 Q3 Earnings Call - Alphabet Inc.",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-          "date": "2026-10-28",
-          "publisher": "Alphabet Inc."
-        },
         {
           "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
@@ -1037,11 +1038,17 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
           "date": "2026-10-29",
           "publisher": "Reuters"
+        },
+        {
+          "title": "Alphabet’s Revenue Rises 25% as Profit Falls - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWE5iQ1RBMElPMEZPMXU2bzJoYWM2V0Nsakp5Y2NQVFBJQ1dRTU5wVmxFTE4wZDk5a1J1akZxRTBQVnJwTEpQRC1ENkF6WFFCbUZIV2lpdVR5NGZhM3ZvVUhHRzI5UTZRcm82dFJvOV85VGhRNG83UEJOa0x2bHhaNDlUYlk?oc=5",
+          "date": "2026-10-28",
+          "publisher": "The New York Times"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1074,7 +1081,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1111,21 +1118,21 @@
           "publisher": "CNBC"
         },
         {
-          "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
-          "date": "2026-10-08",
-          "publisher": "Yahoo Finance"
-        },
-        {
           "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings - CNBC",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2dNZW5McTNNeW9VQmdPUWI1VWo1NFdhcU0xNm5aNDNwMkc2SzNTWGdqcTZSd1FFSEd1RHEwNEQzbEpoaG43ektTWDJzVGlRem95WWJWUTlDNGxXcVlSbHFySU1xcjFhQVFvUmVQa1ktaXNhWGEyaV9hUDhaOWpYdUZjRmk5NHNRdDRyRU1pRGhUb1BjZ0d6cVlvU0dERGRXOWJPY0hNaVZrUHd2SGNheG9R0gG3AUFVX3lxTE9rUzBzRU13bDlMREVDVjlHRnNnMzdTdG1EdXpiMUJfUVV0ZnoyS3RFY3dkR1FnZHgzV19oSUgydC1iOGhLWUZkdlllcXBxaFhiRTFJbjhyX3kwbHcwSV9lUXo1QTJQN2V0WUNralhQNldpNy1tdTFwY2RIcGpWZDRqUk1rb3l6WHFGY0FXSFBHR3JlbERnYlZBWWtmTmkyTnUzZ281c1BVTVN0OFlCYWFyOWNwQk1yOA?oc=5",
           "date": "2026-11-02",
           "publisher": "CNBC"
+        },
+        {
+          "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
+          "date": "2026-10-08",
+          "publisher": "Yahoo Finance"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1182,7 +1189,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1225,21 +1232,21 @@
           "publisher": "Reuters"
         },
         {
-          "title": "GE Vernova (GEV) Earnings Expected to Grow: Should You Buy? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0ZOeDdBTG53dmhaNzdfRnByMU1nSDNvVzVqUWZuUGhrMndBTWNiWmU5akxYeUEzS29GUlJuLXhEWVpSM2VzT2xVYlNRdUhuVkhhRXRkU0h6VWN6T2dYX3BqZ2JqZlpwM3Q5cXNuMGRyUHMyVFBrNDZjbGp6a1JSbWhSb2NRalp2QjVfZDNEd00zSlJwTmlvRTJHMldMZw?oc=5",
-          "date": "2026-10-21",
-          "publisher": "Yahoo Finance"
-        },
-        {
           "title": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity - Utility Dive",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZV9nczZ1QmcwTGV2MWkxeVJvbzN3cTNHejMtVUFqNFFJY3ItVkhsR1pGZmU1cDZheVdDQlVQUXFUNG15YXdMdThpY09tbTVDNmJVLVhVMHRtNWZuVE1rbFM5T0s2S3JSdUx3X1JSakJoNVRsR05BbWRZUTdyZ3RnaFlhQ0liRVdLcUQxSFB0THJTYVBEU1dwdlhfNWNveHh4SnM5bnc3cXhiVUZNb2k2SnhCdw?oc=5",
           "date": "2026-11-10",
           "publisher": "Utility Dive"
+        },
+        {
+          "title": "GE Vernova-powered projects receive 2026 POWER Magazine Awards for advancements in energy efficiency and decarbonization - GE Vernova",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnpiZDNtTHd6SzJzTXFHUmJ6RkFsMWxuZ2ZKRDFNRHB6SkpWa1RPbmdUZkM1MUUyck1XR1Fuamh2cnl4LVE5ekdUQWhUZkgxNHAyMFlPZENjTWxWM20yVFFGZlNhSnJyYlhwT21vNERQZUJfeE9hMElaZEV2cW1yZUZqbHAxSDJPSE54SnBnYUcwczA5SXZPajU2YUotZ0gxMlIxUk0xWTJzc3VxaFZrSzlTcngtZDNPYnNRYXF3NzJVaDRZQ1NR?oc=5",
+          "date": "2026-10-05",
+          "publisher": "GE Vernova"
         }
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1296,7 +1303,7 @@
       ],
       "official": {
         "status": "not_configured",
-        "checkedAt": "2026-11-15T02:28:17Z",
+        "checkedAt": "2026-11-15T11:50:34Z",
         "filings": [],
         "interpretation": "FILING_EXISTENCE_ONLY_NOT_VALIDATED",
         "source": "SEC EDGAR"
@@ -1314,7 +1321,7 @@
   "errors": [],
   "analysisTracks": {
     "schema": "snowball.analysis_tracks.v1",
-    "generatedAt": "2026-11-15T02:28:17Z",
+    "generatedAt": "2026-11-15T11:50:34Z",
     "coverage": "curated_public_news_seeds_KR_US_not_full_market",
     "leaderThemes": [
       {
@@ -1405,7 +1412,7 @@
             "market": "KR",
             "theme": "AI·반도체",
             "newsStage": "news_signal",
-            "newsMatches": 10,
+            "newsMatches": 9,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1425,8 +1432,8 @@
                 "date": "2026-10-29"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVFRxbWp5OFZ3SWdNT3VHQ0Z4SFdTTVFSemNtMnFBTndrNzJPaW1jbWtaZHdDY2NuYW5PS2RPdFVTTy1CZ3l5UGtodHEyTjdvTGNyZlB0VU5PS19PNE9NaQ?oc=5",
-                "title": "삼성전자, 실적·배당 공개…코스피, 하락 전환 - 뉴스토마토",
+                "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
+                "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
                 "date": "2026-10-29"
               }
             ]
@@ -1437,7 +1444,7 @@
             "market": "US",
             "theme": "AI·클라우드",
             "newsStage": "news_signal",
-            "newsMatches": 9,
+            "newsMatches": 8,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_applicable",
@@ -1447,11 +1454,6 @@
             "legacyFlowDate": null,
             "sourceLinks": [
               {
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-                "title": "2026 Q3 Earnings Call - Alphabet Inc.",
-                "date": "2026-10-28"
-              },
-              {
                 "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
                 "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
                 "date": "2026-10-29"
@@ -1460,6 +1462,11 @@
                 "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZIYktJQlA3UzhUV0R2SmZCOWJvMlJPWDFqemlnTC1fY2NXd3V0T3lRUXdKMUxQTnlWVi05eWdlbXlQb1B4eFBZeDZKLUlfeUZ4Ykw3YUNlNW9YRmtCN2FFWVBlelpLV01vTG0yYWVHcEFMWFkyQkc1cnNUdGlmN3VWejA0UUpiazc1b2ZfTTVhWEtsTUYzb1g1Z0V2U1YzRnZKazJvYw?oc=5",
                 "title": "Ahead of Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
                 "date": "2026-10-26"
+              },
+              {
+                "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+                "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+                "date": "2026-10-29"
               }
             ]
           }
@@ -1490,7 +1497,7 @@
             "market": "KR",
             "theme": "방산",
             "newsStage": "news_signal",
-            "newsMatches": 20,
+            "newsMatches": 19,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1505,14 +1512,14 @@
                 "date": "2026-10-13"
               },
               {
+                "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nREloaFNFUmdyR08yNW04b3RYdUh3TW1naFp2d1hzWXUxejFBZUxkNEFON003S3FvR2lTa2JncXhNNUNlRTJuZEVLUUMwQU5DVDhZRmFSRUpjMTUzRkIxTVY1NFlEaDVORHBqSDI3SURRQQ?oc=5",
+                "title": "[이번주 관심주] 현대로템, 방산주 실적 포문...환율 악재 속 'K2 수출'이 돌파구 - 오피니언뉴스",
+                "date": "2026-10-18"
+              },
+              {
                 "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRER4RzdlWl9ITVhUNXhpZWc2VGxLWlpWWDBLLVd6UlE2MDVLZnl4cUZDVmhYVkk5SFJyM2ZVb2t2U0UxNUJNazh3QV81NEQwak56U2tjd0hMbDJMWllwXzB4ZnlkQURiUnh6Um5sdEs?oc=5",
                 "title": "현대로템, 3Q 영업익 2.8천억대 '선방' 전망…폴란드 납품이 견인 - 연합인포맥스",
                 "date": "2026-10-13"
-              },
-              {
-                "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNXlNWjl6b2JHak5oaEE3MExnRGoxWWJYZEdxbWZWS1VXYnZYRzJZd3ZteTlUS2YzZVRyazlmbVdMaTN1Tzk4V0tnTVZTaDRHNms3QTRmS01uVTE2SjNqSVJCSDE?oc=5",
-                "title": "'마하 6' 달성한 현대로템…우주·방산 핵심엔진 키운다 - 매일일보",
-                "date": "2026-09-27"
               }
             ]
           },
@@ -1522,7 +1529,7 @@
             "market": "KR",
             "theme": "방산·우주",
             "newsStage": "news_signal",
-            "newsMatches": 13,
+            "newsMatches": 14,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1606,9 +1613,9 @@
                 "date": "2026-11-03"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
-                "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-                "date": "2026-10-08"
+                "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2dNZW5McTNNeW9VQmdPUWI1VWo1NFdhcU0xNm5aNDNwMkc2SzNTWGdqcTZSd1FFSEd1RHEwNEQzbEpoaG43ektTWDJzVGlRem95WWJWUTlDNGxXcVlSbHFySU1xcjFhQVFvUmVQa1ktaXNhWGEyaV9hUDhaOWpYdUZjRmk5NHNRdDRyRU1pRGhUb1BjZ0d6cVlvU0dERGRXOWJPY0hNaVZrUHd2SGNheG9R0gG3AUFVX3lxTE9rUzBzRU13bDlMREVDVjlHRnNnMzdTdG1EdXpiMUJfUVV0ZnoyS3RFY3dkR1FnZHgzV19oSUgydC1iOGhLWUZkdlllcXBxaFhiRTFJbjhyX3kwbHcwSV9lUXo1QTJQN2V0WUNralhQNldpNy1tdTFwY2RIcGpWZDRqUk1rb3l6WHFGY0FXSFBHR3JlbERnYlZBWWtmTmkyTnUzZ281c1BVTVN0OFlCYWFyOWNwQk1yOA?oc=5",
+                "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings - CNBC",
+                "date": "2026-11-02"
               }
             ]
           }
@@ -1639,7 +1646,7 @@
             "market": "KR",
             "theme": "배터리",
             "newsStage": "news_signal",
-            "newsMatches": 11,
+            "newsMatches": 12,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1671,7 +1678,7 @@
             "market": "KR",
             "theme": "배터리",
             "newsStage": "news_signal",
-            "newsMatches": 21,
+            "newsMatches": 22,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1788,7 +1795,7 @@
             "market": "KR",
             "theme": "전력기기",
             "newsStage": "news_signal",
-            "newsMatches": 13,
+            "newsMatches": 14,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -1803,14 +1810,14 @@
                 "date": "2026-10-30"
               },
               {
+                "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUk94c2VUVmdORmNoU21IS05ObHh2bFRIb05BNlc2c1RaazN3T1BuSkdlVlVZQi1sRl9DT2c5ZDBZajFraGwtbWdlaHV5UFdrSHFrOERyVEtmVFEtNmtSYXk4MnE4WjgweDF6ZNIBcEFVX3lxTE5RTEpMSDlYdmNjby1mSTJxUDZKSjJrOW5NeF9sTXlGbXhpcG5UOUNwUzg1bnRlczFWOFk5SGdURDVMTXltM0ViZWo3eFZUYVR5bHV2cWVsd3pLZllzbUplU3NxOGpmX0gtanZMLTlNRlY?oc=5",
+                "title": "에너지 고속도로 기술 자립화 시동… 효성중공업, GW급 HVDC 성능 검증설비 국내 첫 구축 - 전기신문",
+                "date": "2026-10-08"
+              },
+              {
                 "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SV280WVp0aHVoRjVVR3E5VXNiNWpCN1N6SkFwYktrdm81d0xQM0QtNXFqTjlHY1VOUW1TQXdtR080b1ZES05EdTBoVkdMS2FFTTBhSkYwLXJnaUU?oc=5",
                 "title": "효성중공업, 미국 빅테크와 3,860억 원 변압기 계약 - KBS 뉴스",
                 "date": "2026-09-16"
-              },
-              {
-                "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-                "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-                "date": "2026-10-12"
               }
             ]
           },
@@ -2058,9 +2065,9 @@
                 "date": "2026-11-05"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mVWNTUTR0bzJYTHNZMkR1MjhLVm12U3ZYOVRVMjlNN19nWkJvMGFmT28taFVhTGszd1EzQ2VyV19LblBiTTdCWTJ3V29kbngxZjdSN0ljbmdfc03SAWBBVV95cUxPNHN2cjE0cjd4MEN0UWViMHJMX2pxQUt6bnJCOGNvaWREOGQ3ek8xcVNRTHdOWnB6T1ExVDFETGlFZTFzRjBXMDNzdnNsMTQyWVRUX1hoTFI2NmJ1aEtSMy0?oc=5",
-                "title": "수급업자 잘못 없는데도 계약 취소 갑질…셀트리온 과징금 6.3억 - 연합뉴스",
-                "date": "2026-10-29"
+                "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSDlLdS1JS2ZPZVlxdjU4bTRuNk1MQ3AydTYyUE5yVGFZaEpxaWs4Mk9WU1R0UVVDd0tabEdUdmVvbXp6QnZDRHNKb0VCZTN2cnNWbmxHRWNtc2ZrZldKcDBPOXlvajFQZXc4cGJIZFk?oc=5",
+                "title": "\"늘어나는 수요 대응하자\"…셀트리온, 자체 증설·외부 CMO 활용 '투트랙' - 연합인포맥스",
+                "date": "2026-11-07"
               },
               {
                 "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJQVpkUXJJV1F4RTRuX3Z0b2lrLWhoZllkZ2NnRXItS1Z1MXdZNmdVZlROczdaWmItM2RsVWFLVnBxdXM1OXRud0FkLTJnVFM1eGx2ckpMVkI1MWhBZktMT0hsQU1XNUw3VUpuZkFaTklhTnM?oc=5",
@@ -2096,7 +2103,7 @@
             "market": "KR",
             "theme": "유리기판·첨단소재",
             "newsStage": "news_signal",
-            "newsMatches": 15,
+            "newsMatches": 16,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -2149,7 +2156,7 @@
             "market": "KR",
             "theme": "플랜트·자동화",
             "newsStage": "news_signal",
-            "newsMatches": 28,
+            "newsMatches": 25,
             "officialStatus": "not_configured",
             "filingCount": 0,
             "marketDailyStatus": "not_configured",
@@ -2169,9 +2176,9 @@
                 "date": "2026-10-14"
               },
               {
-                "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscU1RWFltLWw5UGw4SDFfV1UtazlYQlpTTjEya3JTRmxJcTlWRG1UM3hJYkRHcWdadkNRRERfMjlaVnpHNnZtcFBtdHBnRXZ2b3E2OTltYVg3cC0zTlIxUTNR?oc=5",
-                "title": "[버핏 리포트] 삼성E&A, 3분기 영업익 컨센서스 2배...’관계사 수주·’특별배당에 목표가 상향 - 신한 - 버핏연구소",
-                "date": "2026-10-23"
+                "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
+                "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
+                "date": "2026-09-11"
               }
             ]
           }
@@ -2267,7 +2274,7 @@
         "market": "KR",
         "theme": "유리기판·첨단소재",
         "newsStage": "news_signal",
-        "newsMatches": 15,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2387,7 +2394,7 @@
         "market": "KR",
         "theme": "전력기기",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2402,14 +2409,14 @@
             "date": "2026-10-30"
           },
           {
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUk94c2VUVmdORmNoU21IS05ObHh2bFRIb05BNlc2c1RaazN3T1BuSkdlVlVZQi1sRl9DT2c5ZDBZajFraGwtbWdlaHV5UFdrSHFrOERyVEtmVFEtNmtSYXk4MnE4WjgweDF6ZNIBcEFVX3lxTE5RTEpMSDlYdmNjby1mSTJxUDZKSjJrOW5NeF9sTXlGbXhpcG5UOUNwUzg1bnRlczFWOFk5SGdURDVMTXltM0ViZWo3eFZUYVR5bHV2cWVsd3pLZllzbUplU3NxOGpmX0gtanZMLTlNRlY?oc=5",
+            "title": "에너지 고속도로 기술 자립화 시동… 효성중공업, GW급 HVDC 성능 검증설비 국내 첫 구축 - 전기신문",
+            "date": "2026-10-08"
+          },
+          {
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SV280WVp0aHVoRjVVR3E5VXNiNWpCN1N6SkFwYktrdm81d0xQM0QtNXFqTjlHY1VOUW1TQXdtR080b1ZES05EdTBoVkdMS2FFTTBhSkYwLXJnaUU?oc=5",
             "title": "효성중공업, 미국 빅테크와 3,860억 원 변압기 계약 - KBS 뉴스",
             "date": "2026-09-16"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-            "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-            "date": "2026-10-12"
           }
         ],
         "status": "observation_only",
@@ -2467,7 +2474,7 @@
         "market": "KR",
         "theme": "방산",
         "newsStage": "news_signal",
-        "newsMatches": 20,
+        "newsMatches": 19,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2482,14 +2489,14 @@
             "date": "2026-10-13"
           },
           {
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nREloaFNFUmdyR08yNW04b3RYdUh3TW1naFp2d1hzWXUxejFBZUxkNEFON003S3FvR2lTa2JncXhNNUNlRTJuZEVLUUMwQU5DVDhZRmFSRUpjMTUzRkIxTVY1NFlEaDVORHBqSDI3SURRQQ?oc=5",
+            "title": "[이번주 관심주] 현대로템, 방산주 실적 포문...환율 악재 속 'K2 수출'이 돌파구 - 오피니언뉴스",
+            "date": "2026-10-18"
+          },
+          {
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRER4RzdlWl9ITVhUNXhpZWc2VGxLWlpWWDBLLVd6UlE2MDVLZnl4cUZDVmhYVkk5SFJyM2ZVb2t2U0UxNUJNazh3QV81NEQwak56U2tjd0hMbDJMWllwXzB4ZnlkQURiUnh6Um5sdEs?oc=5",
             "title": "현대로템, 3Q 영업익 2.8천억대 '선방' 전망…폴란드 납품이 견인 - 연합인포맥스",
             "date": "2026-10-13"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNXlNWjl6b2JHak5oaEE3MExnRGoxWWJYZEdxbWZWS1VXYnZYRzJZd3ZteTlUS2YzZVRyazlmbVdMaTN1Tzk4V0tnTVZTaDRHNms3QTRmS01uVTE2SjNqSVJCSDE?oc=5",
-            "title": "'마하 6' 달성한 현대로템…우주·방산 핵심엔진 키운다 - 매일일보",
-            "date": "2026-09-27"
           }
         ],
         "status": "observation_only",
@@ -2507,7 +2514,7 @@
         "market": "KR",
         "theme": "방산·우주",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2587,7 +2594,7 @@
         "market": "KR",
         "theme": "플랜트·자동화",
         "newsStage": "news_signal",
-        "newsMatches": 28,
+        "newsMatches": 25,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2607,9 +2614,9 @@
             "date": "2026-10-14"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscU1RWFltLWw5UGw4SDFfV1UtazlYQlpTTjEya3JTRmxJcTlWRG1UM3hJYkRHcWdadkNRRERfMjlaVnpHNnZtcFBtdHBnRXZ2b3E2OTltYVg3cC0zTlIxUTNR?oc=5",
-            "title": "[버핏 리포트] 삼성E&A, 3분기 영업익 컨센서스 2배...’관계사 수주·’특별배당에 목표가 상향 - 신한 - 버핏연구소",
-            "date": "2026-10-23"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
+            "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
+            "date": "2026-09-11"
           }
         ],
         "status": "observation_only",
@@ -2627,7 +2634,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 12,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2667,7 +2674,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 21,
+        "newsMatches": 22,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2707,7 +2714,7 @@
         "market": "KR",
         "theme": "AI·반도체",
         "newsStage": "news_signal",
-        "newsMatches": 10,
+        "newsMatches": 9,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -2727,8 +2734,8 @@
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVFRxbWp5OFZ3SWdNT3VHQ0Z4SFdTTVFSemNtMnFBTndrNzJPaW1jbWtaZHdDY2NuYW5PS2RPdFVTTy1CZ3l5UGtodHEyTjdvTGNyZlB0VU5PS19PNE9NaQ?oc=5",
-            "title": "삼성전자, 실적·배당 공개…코스피, 하락 전환 - 뉴스토마토",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
+            "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
             "date": "2026-10-29"
           }
         ],
@@ -2762,9 +2769,9 @@
             "date": "2026-11-05"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mVWNTUTR0bzJYTHNZMkR1MjhLVm12U3ZYOVRVMjlNN19nWkJvMGFmT28taFVhTGszd1EzQ2VyV19LblBiTTdCWTJ3V29kbngxZjdSN0ljbmdfc03SAWBBVV95cUxPNHN2cjE0cjd4MEN0UWViMHJMX2pxQUt6bnJCOGNvaWREOGQ3ek8xcVNRTHdOWnB6T1ExVDFETGlFZTFzRjBXMDNzdnNsMTQyWVRUX1hoTFI2NmJ1aEtSMy0?oc=5",
-            "title": "수급업자 잘못 없는데도 계약 취소 갑질…셀트리온 과징금 6.3억 - 연합뉴스",
-            "date": "2026-10-29"
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSDlLdS1JS2ZPZVlxdjU4bTRuNk1MQ3AydTYyUE5yVGFZaEpxaWs4Mk9WU1R0UVVDd0tabEdUdmVvbXp6QnZDRHNKb0VCZTN2cnNWbmxHRWNtc2ZrZldKcDBPOXlvajFQZXc4cGJIZFk?oc=5",
+            "title": "\"늘어나는 수요 대응하자\"…셀트리온, 자체 증설·외부 CMO 활용 '투트랙' - 연합인포맥스",
+            "date": "2026-11-07"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJQVpkUXJJV1F4RTRuX3Z0b2lrLWhoZllkZ2NnRXItS1Z1MXdZNmdVZlROczdaWmItM2RsVWFLVnBxdXM1OXRud0FkLTJnVFM1eGx2ckpMVkI1MWhBZktMT0hsQU1XNUw3VUpuZkFaTklhTnM?oc=5",
@@ -2827,7 +2834,7 @@
         "market": "US",
         "theme": "AI·클라우드",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 8,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_applicable",
@@ -2837,11 +2844,6 @@
         "legacyFlowDate": null,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-            "title": "2026 Q3 Earnings Call - Alphabet Inc.",
-            "date": "2026-10-28"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
@@ -2850,6 +2852,11 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZIYktJQlA3UzhUV0R2SmZCOWJvMlJPWDFqemlnTC1fY2NXd3V0T3lRUXdKMUxQTnlWVi05eWdlbXlQb1B4eFBZeDZKLUlfeUZ4Ykw3YUNlNW9YRmtCN2FFWVBlelpLV01vTG0yYWVHcEFMWFkyQkc1cnNUdGlmN3VWejA0UUpiazc1b2ZfTTVhWEtsTUYzb1g1Z0V2U1YzRnZKazJvYw?oc=5",
             "title": "Ahead of Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
             "date": "2026-10-26"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+            "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+            "date": "2026-10-29"
           }
         ],
         "status": "observation_only",
@@ -2887,9 +2894,9 @@
             "date": "2026-11-03"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
-            "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-            "date": "2026-10-08"
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2dNZW5McTNNeW9VQmdPUWI1VWo1NFdhcU0xNm5aNDNwMkc2SzNTWGdqcTZSd1FFSEd1RHEwNEQzbEpoaG43ektTWDJzVGlRem95WWJWUTlDNGxXcVlSbHFySU1xcjFhQVFvUmVQa1ktaXNhWGEyaV9hUDhaOWpYdUZjRmk5NHNRdDRyRU1pRGhUb1BjZ0d6cVlvU0dERGRXOWJPY0hNaVZrUHd2SGNheG9R0gG3AUFVX3lxTE9rUzBzRU13bDlMREVDVjlHRnNnMzdTdG1EdXpiMUJfUVV0ZnoyS3RFY3dkR1FnZHgzV19oSUgydC1iOGhLWUZkdlllcXBxaFhiRTFJbjhyX3kwbHcwSV9lUXo1QTJQN2V0WUNralhQNldpNy1tdTFwY2RIcGpWZDRqUk1rb3l6WHFGY0FXSFBHR3JlbERnYlZBWWtmTmkyTnUzZ281c1BVTVN0OFlCYWFyOWNwQk1yOA?oc=5",
+            "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings - CNBC",
+            "date": "2026-11-02"
           }
         ],
         "status": "observation_only",
@@ -3114,7 +3121,7 @@
         "market": "KR",
         "theme": "유리기판·첨단소재",
         "newsStage": "news_signal",
-        "newsMatches": 15,
+        "newsMatches": 16,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3240,7 +3247,7 @@
         "market": "KR",
         "theme": "전력기기",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3255,14 +3262,14 @@
             "date": "2026-10-30"
           },
           {
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GUk94c2VUVmdORmNoU21IS05ObHh2bFRIb05BNlc2c1RaazN3T1BuSkdlVlVZQi1sRl9DT2c5ZDBZajFraGwtbWdlaHV5UFdrSHFrOERyVEtmVFEtNmtSYXk4MnE4WjgweDF6ZNIBcEFVX3lxTE5RTEpMSDlYdmNjby1mSTJxUDZKSjJrOW5NeF9sTXlGbXhpcG5UOUNwUzg1bnRlczFWOFk5SGdURDVMTXltM0ViZWo3eFZUYVR5bHV2cWVsd3pLZllzbUplU3NxOGpmX0gtanZMLTlNRlY?oc=5",
+            "title": "에너지 고속도로 기술 자립화 시동… 효성중공업, GW급 HVDC 성능 검증설비 국내 첫 구축 - 전기신문",
+            "date": "2026-10-08"
+          },
+          {
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SV280WVp0aHVoRjVVR3E5VXNiNWpCN1N6SkFwYktrdm81d0xQM0QtNXFqTjlHY1VOUW1TQXdtR080b1ZES05EdTBoVkdMS2FFTTBhSkYwLXJnaUU?oc=5",
             "title": "효성중공업, 미국 빅테크와 3,860억 원 변압기 계약 - KBS 뉴스",
             "date": "2026-09-16"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGNmpXbG5kSUcxT01VMkpFZ1llVmF0SU9BUHJjV2hOWlFjYWhXTXFWdlVmdjFsVnBIZEN2SUpROEFBdUc5XzU5UndRT3Q0MU84MnREQjhaX1JCUQ?oc=5",
-            "title": "효성중공업, 3분기 실적 눈높이 하향에 6%대 약세 - 한국경제",
-            "date": "2026-10-12"
           }
         ],
         "status": "review_required",
@@ -3324,7 +3331,7 @@
         "market": "KR",
         "theme": "방산",
         "newsStage": "news_signal",
-        "newsMatches": 20,
+        "newsMatches": 19,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3339,14 +3346,14 @@
             "date": "2026-10-13"
           },
           {
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nREloaFNFUmdyR08yNW04b3RYdUh3TW1naFp2d1hzWXUxejFBZUxkNEFON003S3FvR2lTa2JncXhNNUNlRTJuZEVLUUMwQU5DVDhZRmFSRUpjMTUzRkIxTVY1NFlEaDVORHBqSDI3SURRQQ?oc=5",
+            "title": "[이번주 관심주] 현대로템, 방산주 실적 포문...환율 악재 속 'K2 수출'이 돌파구 - 오피니언뉴스",
+            "date": "2026-10-18"
+          },
+          {
             "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LRER4RzdlWl9ITVhUNXhpZWc2VGxLWlpWWDBLLVd6UlE2MDVLZnl4cUZDVmhYVkk5SFJyM2ZVb2t2U0UxNUJNazh3QV81NEQwak56U2tjd0hMbDJMWllwXzB4ZnlkQURiUnh6Um5sdEs?oc=5",
             "title": "현대로템, 3Q 영업익 2.8천억대 '선방' 전망…폴란드 납품이 견인 - 연합인포맥스",
             "date": "2026-10-13"
-          },
-          {
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNXlNWjl6b2JHak5oaEE3MExnRGoxWWJYZEdxbWZWS1VXYnZYRzJZd3ZteTlUS2YzZVRyazlmbVdMaTN1Tzk4V0tnTVZTaDRHNms3QTRmS01uVTE2SjNqSVJCSDE?oc=5",
-            "title": "'마하 6' 달성한 현대로템…우주·방산 핵심엔진 키운다 - 매일일보",
-            "date": "2026-09-27"
           }
         ],
         "status": "review_required",
@@ -3366,7 +3373,7 @@
         "market": "KR",
         "theme": "방산·우주",
         "newsStage": "news_signal",
-        "newsMatches": 13,
+        "newsMatches": 14,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3450,7 +3457,7 @@
         "market": "KR",
         "theme": "플랜트·자동화",
         "newsStage": "news_signal",
-        "newsMatches": 28,
+        "newsMatches": 25,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3470,9 +3477,9 @@
             "date": "2026-10-14"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBscU1RWFltLWw5UGw4SDFfV1UtazlYQlpTTjEya3JTRmxJcTlWRG1UM3hJYkRHcWdadkNRRERfMjlaVnpHNnZtcFBtdHBnRXZ2b3E2OTltYVg3cC0zTlIxUTNR?oc=5",
-            "title": "[버핏 리포트] 삼성E&A, 3분기 영업익 컨센서스 2배...’관계사 수주·’특별배당에 목표가 상향 - 신한 - 버핏연구소",
-            "date": "2026-10-23"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IcHBzUjZJZ29rWEpSdWt3SFliRGZHU3pzclljQ2Fta2RSX1ZyYTkzYVozQllsdzI3WnNOUzVmel9XWnBTdTVGMUhwWG1qVTNYYkliMDZNQnF4VXfSAWBBVV95cUxOdmVhN1MtUVU0bW5vWHRjTnlQU2xYak5RcHh2WmV0eGFiQ0NaMnNQUk11eHo5UTZaWFZGalZpWWprb0MtcmhJVjJHNHpaX0VtVURhUEpFcGR0Rlo5Z1ZXUXo?oc=5",
+            "title": "삼성E&A, 4.7조원 규모 사우디 비료 프로젝트 수주 - 연합뉴스",
+            "date": "2026-09-11"
           }
         ],
         "status": "review_required",
@@ -3492,7 +3499,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 11,
+        "newsMatches": 12,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3534,7 +3541,7 @@
         "market": "KR",
         "theme": "배터리",
         "newsStage": "news_signal",
-        "newsMatches": 21,
+        "newsMatches": 22,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3576,7 +3583,7 @@
         "market": "KR",
         "theme": "AI·반도체",
         "newsStage": "news_signal",
-        "newsMatches": 10,
+        "newsMatches": 9,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_configured",
@@ -3596,8 +3603,8 @@
             "date": "2026-10-29"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZVFRxbWp5OFZ3SWdNT3VHQ0Z4SFdTTVFSemNtMnFBTndrNzJPaW1jbWtaZHdDY2NuYW5PS2RPdFVTTy1CZ3l5UGtodHEyTjdvTGNyZlB0VU5PS19PNE9NaQ?oc=5",
-            "title": "삼성전자, 실적·배당 공개…코스피, 하락 전환 - 뉴스토마토",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazVBQ2NiMXE2ZkJJQU8tTTh5R3BaakFzaEx4SGE3THBUSmkybHlnS3hnRFpFcGpWNExYa1JoZzFWdGhvdXM0ZDZEdHJuYl9ZOUhLdnAxQ3BvdXlsSHI1UFVWcjBnMURmQlo3UEhDMTFhWE5jbGNuWFFsNnlrVldycEd30gGWAUFVX3lxTE5zbVJJRWJiVkFvVndBbkc5Ulp6YnpqaFpWVnA4QUZteFAtenBBMjhaT0tYYjVZVnc3QlVVYlBmblhzZzJibThqLVhWQkd5d05wY2d3NGNtUy1DdEN0SkQ4UTc0aF9TYmNfWDA5akY1R05YbFE2MjVXdUd4ckYtaDFoOUxQM1lnblBDMGFnenFZNkhGVkZtdw?oc=5",
+            "title": "삼성전자, 3분기 HBM 매출 HBM4가 60% 담당… SK하이닉스 턱밑 추격 - Chosunbiz",
             "date": "2026-10-29"
           }
         ],
@@ -3633,9 +3640,9 @@
             "date": "2026-11-05"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mVWNTUTR0bzJYTHNZMkR1MjhLVm12U3ZYOVRVMjlNN19nWkJvMGFmT28taFVhTGszd1EzQ2VyV19LblBiTTdCWTJ3V29kbngxZjdSN0ljbmdfc03SAWBBVV95cUxPNHN2cjE0cjd4MEN0UWViMHJMX2pxQUt6bnJCOGNvaWREOGQ3ek8xcVNRTHdOWnB6T1ExVDFETGlFZTFzRjBXMDNzdnNsMTQyWVRUX1hoTFI2NmJ1aEtSMy0?oc=5",
-            "title": "수급업자 잘못 없는데도 계약 취소 갑질…셀트리온 과징금 6.3억 - 연합뉴스",
-            "date": "2026-10-29"
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSDlLdS1JS2ZPZVlxdjU4bTRuNk1MQ3AydTYyUE5yVGFZaEpxaWs4Mk9WU1R0UVVDd0tabEdUdmVvbXp6QnZDRHNKb0VCZTN2cnNWbmxHRWNtc2ZrZldKcDBPOXlvajFQZXc4cGJIZFk?oc=5",
+            "title": "\"늘어나는 수요 대응하자\"…셀트리온, 자체 증설·외부 CMO 활용 '투트랙' - 연합인포맥스",
+            "date": "2026-11-07"
           },
           {
             "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJQVpkUXJJV1F4RTRuX3Z0b2lrLWhoZllkZ2NnRXItS1Z1MXdZNmdVZlROczdaWmItM2RsVWFLVnBxdXM1OXRud0FkLTJnVFM1eGx2ckpMVkI1MWhBZktMT0hsQU1XNUw3VUpuZkFaTklhTnM?oc=5",
@@ -3702,7 +3709,7 @@
         "market": "US",
         "theme": "AI·클라우드",
         "newsStage": "news_signal",
-        "newsMatches": 9,
+        "newsMatches": 8,
         "officialStatus": "not_configured",
         "filingCount": 0,
         "marketDailyStatus": "not_applicable",
@@ -3712,11 +3719,6 @@
         "legacyFlowDate": null,
         "sourceLinks": [
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUpLSGVmQTNfNXdnTjRXeDVleHlDelk1VVBMVjlNOTc1OXdCRkxtN0tJb1R3dlJObGlCenNRM005TGpMdjhHOGxNNC1qN0U4c1JLZGFaUllweV82UDR5VDM0bUdOWDE1aUJOeVRJNmVnN2dncGlhTlo0eWhoQTQ5c2g1MU9Mc2txYk1KRGRUaERmYmpwZXl4UXlZS092b1dfVjY0?oc=5",
-            "title": "2026 Q3 Earnings Call - Alphabet Inc.",
-            "date": "2026-10-28"
-          },
-          {
             "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNajBhM1htcElGckpqVEh4RzlEdTM3emlCNXFUUHhWd2JBSTROUEYzOUNrSkxSWm1wVHZNbEl0TDVCbEZ5WnBSMVRkY3ZQZTJOQTgxYXJXa1daRDZMRmUwc1c0bWExV29zcGhJM1Q3eWc0M2RCblVoTUxzX19qUG0wVUNlT1N3QU5uNE02aDhjNW13LVlaY0dib203U3J2Um9PUWsySlEzTFlLbkFRc25jbHA5TkFpbzlBX3pJUmhGX0E?oc=5",
             "title": "Alphabet stock sinks as search woes cause revenue miss, cash burn worsens - Reuters",
             "date": "2026-10-29"
@@ -3725,6 +3727,11 @@
             "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1ZIYktJQlA3UzhUV0R2SmZCOWJvMlJPWDFqemlnTC1fY2NXd3V0T3lRUXdKMUxQTnlWVi05eWdlbXlQb1B4eFBZeDZKLUlfeUZ4Ykw3YUNlNW9YRmtCN2FFWVBlelpLV01vTG0yYWVHcEFMWFkyQkc1cnNUdGlmN3VWejA0UUpiazc1b2ZfTTVhWEtsTUYzb1g1Z0V2U1YzRnZKazJvYw?oc=5",
             "title": "Ahead of Earnings, Is Alphabet Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
             "date": "2026-10-26"
+          },
+          {
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jam9HMHZIWF9Qa012UFpWSDdXR05uS19yQTdoNnhxQzF5TE9KQ1VSYm1RR2YtZ2pvelkzUnQ4QncyamJtOXEwUk0xMGdFdWJIWFkyM0h4UGFmcVlWRHQ3angtYzl3ZTJsUkJENlpnS3hXWUZNdUh6WlBGNNIBgAFBVV95cUxNNHc4N2kwVENwVmxsU1pPY0FkX1FDd2FlYW83MDlFd2QweG02NkdoQU5lMmZCVVh3bXhLclJzVXAxcTF5ZU5uQXAtZGp3Qy1ZdWFpWUszT1hQNXhIMVhYZFR3aXF3a0NhaUF1T05XcnNIUHVMZEVBdGpKT3NZVFI1WQ?oc=5",
+            "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search - CNBC",
+            "date": "2026-10-29"
           }
         ],
         "status": "review_required",
@@ -3764,9 +3771,9 @@
             "date": "2026-11-03"
           },
           {
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUk4cTNlaVJoVXctREtOajV2aTExV0VoRGo1MVlfeVVUd2tEeWZnaEx6S1pJTWF1LUphbDc2aXdtZzhHLWRhNzhhN0VRQ2FKbXA2MWc1YmEybXZMOUhfU0ZVR28ycXF3TWtsYmUwQ09VdTZlZzZoR29tbXBxUlFGdkhpYmhlWTExdTBlZ2tnZDBnQ3hGNnVYRzJYeGZiMkk2M0h3?oc=5",
-            "title": "What Does Palantir Technologies (PLTR) Maven Expansion Mean For Its AI Growth? - Yahoo Finance",
-            "date": "2026-10-08"
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS2dNZW5McTNNeW9VQmdPUWI1VWo1NFdhcU0xNm5aNDNwMkc2SzNTWGdqcTZSd1FFSEd1RHEwNEQzbEpoaG43ektTWDJzVGlRem95WWJWUTlDNGxXcVlSbHFySU1xcjFhQVFvUmVQa1ktaXNhWGEyaV9hUDhaOWpYdUZjRmk5NHNRdDRyRU1pRGhUb1BjZ0d6cVlvU0dERGRXOWJPY0hNaVZrUHd2SGNheG9R0gG3AUFVX3lxTE9rUzBzRU13bDlMREVDVjlHRnNnMzdTdG1EdXpiMUJfUVV0ZnoyS3RFY3dkR1FnZHgzV19oSUgydC1iOGhLWUZkdlllcXBxaFhiRTFJbjhyX3kwbHcwSV9lUXo1QTJQN2V0WUNralhQNldpNy1tdTFwY2RIcGpWZDRqUk1rb3l6WHFGY0FXSFBHR3JlbERnYlZBWWtmTmkyTnUzZ281c1BVTVN0OFlCYWFyOWNwQk1yOA?oc=5",
+            "title": "Options traders are getting anxious on Palantir and Apple ahead of earnings - CNBC",
+            "date": "2026-11-02"
           }
         ],
         "status": "review_required",

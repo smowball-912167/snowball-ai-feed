@@ -33,5 +33,12 @@
     "scanned": 24,
     "completed": 24,
     "newsSignals": 21
+  },
+  {
+    "at": "2026-11-15T11:50:34Z",
+    "status": "ok",
+    "scanned": 24,
+    "completed": 24,
+    "newsSignals": 21
   }
 ]
