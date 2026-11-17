@@ -96,5 +96,19 @@
       "corporate": 0,
       "unknown": 0
     }
+  },
+  {
+    "at": "2026-11-17T04:59:57Z",
+    "status": "partial",
+    "scanned": 24,
+    "completed": 19,
+    "newsSignals": 19,
+    "sourceObservations": {
+      "independent_blog": 11,
+      "broker_research": 0,
+      "professional_or_general_media": 184,
+      "corporate": 0,
+      "unknown": 0
+    }
   }
 ]
