@@ -201,5 +201,19 @@
     "scanned": 24,
     "completed": 24,
     "newsSignals": 23
+  },
+  {
+    "at": "2026-11-19T18:55:44Z",
+    "status": "partial",
+    "scanned": 24,
+    "completed": 23,
+    "newsSignals": 23,
+    "sourceObservations": {
+      "independent_blog": 22,
+      "broker_research": 0,
+      "professional_or_general_media": 215,
+      "corporate": 0,
+      "unknown": 0
+    }
   }
 ]
