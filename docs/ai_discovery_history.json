@@ -173,5 +173,12 @@
       "corporate": 0,
       "unknown": 0
     }
+  },
+  {
+    "at": "2026-11-19T04:01:24Z",
+    "status": "partial",
+    "scanned": 24,
+    "completed": 15,
+    "newsSignals": 14
   }
 ]
