@@ -222,5 +222,19 @@
     "scanned": 24,
     "completed": 24,
     "newsSignals": 23
+  },
+  {
+    "at": "2026-11-20T03:55:19Z",
+    "status": "ok",
+    "scanned": 24,
+    "completed": 24,
+    "newsSignals": 24,
+    "sourceObservations": {
+      "independent_blog": 26,
+      "broker_research": 0,
+      "professional_or_general_media": 223,
+      "corporate": 0,
+      "unknown": 0
+    }
   }
 ]
