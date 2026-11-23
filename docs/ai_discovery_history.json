@@ -341,5 +341,12 @@
       "corporate": 0,
       "unknown": 0
     }
+  },
+  {
+    "at": "2026-11-23T03:36:01Z",
+    "status": "partial",
+    "scanned": 24,
+    "completed": 22,
+    "newsSignals": 21
   }
 ]
