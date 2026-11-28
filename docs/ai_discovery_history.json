@@ -634,5 +634,12 @@
         "rank": 3
       }
     ]
+  },
+  {
+    "at": "2026-11-28T18:01:27Z",
+    "status": "partial",
+    "scanned": 24,
+    "completed": 18,
+    "newsSignals": 18
   }
 ]
