@@ -551,5 +551,12 @@
       "corporate": 0,
       "unknown": 0
     }
+  },
+  {
+    "at": "2026-11-28T04:37:13Z",
+    "status": "ok",
+    "scanned": 24,
+    "completed": 24,
+    "newsSignals": 22
   }
 ]
