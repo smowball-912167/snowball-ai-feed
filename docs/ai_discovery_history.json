@@ -572,5 +572,36 @@
       "corporate": 0,
       "unknown": 0
     }
+  },
+  {
+    "at": "2026-11-28T07:37:08Z",
+    "status": "ok",
+    "scanned": 48,
+    "completed": 48,
+    "newsSignals": 48,
+    "sourceObservations": {
+      "independent_blog": 47,
+      "broker_research": 0,
+      "professional_or_general_media": 300,
+      "corporate": 0,
+      "unknown": 0
+    },
+    "rankedThemesTop3": [
+      {
+        "theme": "AI·반도체",
+        "score": 10,
+        "rank": 1
+      },
+      {
+        "theme": "우주·방산",
+        "score": 10,
+        "rank": 2
+      },
+      {
+        "theme": "전력망·전력기기",
+        "score": 10,
+        "rank": 3
+      }
+    ]
   }
 ]
