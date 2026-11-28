@@ -603,5 +603,36 @@
         "rank": 3
       }
     ]
+  },
+  {
+    "at": "2026-11-28T07:47:41Z",
+    "status": "ok",
+    "scanned": 48,
+    "completed": 48,
+    "newsSignals": 47,
+    "sourceObservations": {
+      "independent_blog": 42,
+      "broker_research": 0,
+      "professional_or_general_media": 306,
+      "corporate": 0,
+      "unknown": 0
+    },
+    "rankedThemesTop3": [
+      {
+        "theme": "AI·반도체",
+        "score": 10,
+        "rank": 1
+      },
+      {
+        "theme": "우주·방산",
+        "score": 10,
+        "rank": 2
+      },
+      {
+        "theme": "로봇·자율주행",
+        "score": 10,
+        "rank": 3
+      }
+    ]
   }
 ]
